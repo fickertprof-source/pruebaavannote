@@ -1,5 +1,3214 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 13,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "con lucha como freco."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": ""
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "conflicto-laboral"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "olla-popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "movilizacion"
+        }
+      ],
+      "uuid": "d0d93722-a7bc-4d29-a418-8805a2a79fb7"
+    },
+    {
+      "start_time": 15,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Estos obreros enfermos de la empresa monopólica INSUD, consiguieron un pequeño gran triunfo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "2"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "saturnismo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "sintomas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "datos-medicos"
+        }
+      ],
+      "uuid": "649d1f53-76d0-488a-af92-d654be5ed0ae"
+    },
+    {
+      "start_time": 21,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y dos días de olla popular, de más de tres meses en conflicto."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "3"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "contaminacion-domestica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "mujeres-e-hijos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "salud-familiar"
+        }
+      ],
+      "uuid": "626d7c07-c144-41ec-b67e-ea1f12bcbabb"
+    },
+    {
+      "start_time": 26,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y el mismo día en que los obreros se movilizaron al Congreso, la empresa decidió pagar las seis quincenas adeudadas y reconocer la existencia de Saturnismo, intoxicación de plomo en la sangre, tantas veces negadas por la misma patronal asesina."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "4"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "testimonio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "muerte-de-companiero"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "paro-cardiaco"
+        }
+      ],
+      "uuid": "032340e3-92d8-4e19-9c4c-452e27eb8116"
+    },
+    {
+      "start_time": 43,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El Saturnismo es una enfermedad grave que va matando lentamente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "5"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "causalidad"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "certificados-de-defuncion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "sospecha-patronal"
+        }
+      ],
+      "uuid": "32e2dc40-fdac-4e31-99a2-4d60ca0ca1f8"
+    },
+    {
+      "start_time": 48,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "De 81 obreros analizados, 79 estaban intoxicados con plomo en la sangre."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "6"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "canto"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "consignas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "solidaridad-barrial"
+        }
+      ],
+      "uuid": "560e1865-6a54-41f0-b6b5-66375aaab829"
+    },
+    {
+      "start_time": 54,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dos murieron recientemente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "7"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "discurso-politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "lucha-colectiva"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "clase-trabajadora"
+        }
+      ],
+      "uuid": "fc265380-16c8-4da8-9723-184c39336a8d"
+    },
+    {
+      "start_time": 57,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El Saturnismo es impotencia sexual, dolor de cabeza insoportable, dolor en los huesos, mareos, hormigueos en los pies, acidez estomacal, mucho sueño, debilidad general."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "8"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "conversacion-informal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Matanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Villa-de-Antena"
+        }
+      ],
+      "uuid": "1f3750a4-e546-46ad-b4a3-3e271f69e905"
+    },
+    {
+      "start_time": 71,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La ropa está contaminada y al lavarla en las casas se intoxican también las mujeres y los hijos."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fdc1c944-755c-41b5-920e-37feb86fb12c"
+    },
+    {
+      "start_time": 85,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y ahora el 18 de enero se lo muere el compañero paulito burgare y decía paro cardiaco y yo creo que todos los compañeros que se están muriendo ahora en la fecha que la patronal prácticamente lo está matando todos los compañeros puede ser que todos los que suframos paro cardiaco estemos en inicio"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0ae4e373-8fba-415d-aa4e-e887ce359458"
+    },
+    {
+      "start_time": 102,
+      "end_time": 117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo creo que es un poco de la misma fábrica que estamos atando a los compañeros y es algo que el plomo está apetando a la gente, digamos, que esa enfermedad sea, digamos, de paro cardíaco."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ee3240dd-7bff-4264-89ad-eb4513e82807"
+    },
+    {
+      "start_time": 117,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, yo de lo que te puedo decir, se ve bien que de los 17 años que llevo de trabajo allá,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "00ff966a-2c11-44c8-b78a-45cb337ae111"
+    },
+    {
+      "start_time": 124,
+      "end_time": 126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Todos los compañeros que murieron, todos."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "508475f5-50c8-4903-b121-0c768e2d9463"
+    },
+    {
+      "start_time": 128,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La defunción decía para los cardiacos, así que quiere decir que todos los cardiacos vinieron a trabajar a ILSUM."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1d4c3508-400f-4779-b1b4-c80aef7ad795"
+    },
+    {
+      "start_time": 133,
+      "end_time": 134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No puede ser, debe ser."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8133378f-ffce-4a96-b2d8-97b9c27f6062"
+    },
+    {
+      "start_time": 134,
+      "end_time": 143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Con respecto a la misma enfermedad de esto de desatornismo que estamos sufriendo nosotros, que antes no se destapó a la bolsa, pero ahora como se destapó a la bolsa, es ese."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "62474555-b84f-45fa-aa16-95950f7e111c"
+    },
+    {
+      "start_time": 148,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¡Viva la viva, la olla popular!"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a6d42e45-3675-4d06-bd4b-bfb5180dc7eb"
+    },
+    {
+      "start_time": 151,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¡Y nunca, y nunca tenemos que aflojar!"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5b18e63a-e609-42c7-aaf0-d784121aacd5"
+    },
+    {
+      "start_time": 155,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¡Y viva, y viva la olla popular!"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "eb44c7f8-608a-4e60-9d82-ccfbca62d673"
+    },
+    {
+      "start_time": 160,
+      "end_time": 163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¡Y nunca, y nunca tenemos que aflojar!"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5d0113b2-c831-4b10-a506-0aac83e8152e"
+    },
+    {
+      "start_time": 163,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¡Y carne, y hueso, ni aceite en la sartén!"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6887b6da-7df2-4a81-a8b6-c5c5825ecfd1"
+    },
+    {
+      "start_time": 168,
+      "end_time": 176,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Un poco de agua y polenta de almacén, ni un guita ni un mango, quisena sin cobrar."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d5fb101f-2eb8-4dc5-b3d1-462a22536529"
+    },
+    {
+      "start_time": 176,
+      "end_time": 187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por eso quesemos la olla popular, que el barrio y la gente nos trae de morfar, y viva, y viva la olla popular."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3ed96d41-1aad-4c81-b02a-ae030307a81f"
+    },
+    {
+      "start_time": 188,
+      "end_time": 213,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La ajeta de alguno no puedes asupar Los ganas milicos te vas a nachagar Y viva, y viva la olla popular Y viva mi muerto tenemos que aflojar Y viva, y viva la olla popular Y nunca, y nunca tenemos que aflojar"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "152b95cd-b5f8-41f2-83c2-a24283a21ef3"
+    },
+    {
+      "start_time": 214,
+      "end_time": 226,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No se quiere decir que la movilización y todo lo que hasta la fecha hemos trabajado y la conciencia de todos los sobreros de Matanza están con nosotros."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "53d99ab3-c730-444c-9877-2f5553a6d2f7"
+    },
+    {
+      "start_time": 226,
+      "end_time": 237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y ya, como les dije, en varias oportunidades, acá nosotros vamos a salir adelante con todos los compañeros, con todo Matanza y vamos a ir adelante y caiga, quien caiga,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "623c9b4f-29d7-4dfb-8a44-a30357fe96a3"
+    },
+    {
+      "start_time": 238,
+      "end_time": 244,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "vamos a ir adelante, porque este problema no es un problema de Inso nada más, sino es un problema del país."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1c462962-4fe2-45fa-99b5-c6ae314b8c89"
+    },
+    {
+      "start_time": 244,
+      "end_time": 249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y hacer el problema del país es el problema de todos los trabajadores."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d10418dc-8448-43d5-9cdc-dcf200dc3fac"
+    },
+    {
+      "start_time": 249,
+      "end_time": 255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y con ese problema de trabajadores ustedes saben que eso no es único que pueden salvar el país."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "895b2cf1-7cb6-4198-b36c-d2b53dfcda32"
+    },
+    {
+      "start_time": 256,
+      "end_time": 261,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para perder ya no tenemos nada, pero para ganar tenemos bastante."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "618105c1-81c3-425e-814c-6b32db3600d4"
+    },
+    {
+      "start_time": 261,
+      "end_time": 266,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ayer compañero, adelante y vamos a ir en cualquier lado."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d7668434-910d-450d-9b88-72b2f0fc286d"
+    },
+    {
+      "start_time": 266,
+      "end_time": 269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Algunos no transformen, llegaron de algún otro lado."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "075d5dd9-9795-44eb-baf3-5fe04c36293c"
+    },
+    {
+      "start_time": 274,
+      "end_time": 277,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Trabajamos a comer a el compañero."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e2aa01d7-e858-4580-a341-018b750db6f4"
+    },
+    {
+      "start_time": 277,
+      "end_time": 278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿El compañero?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c87273e6-c80d-4910-bb79-26dc5c846b6b"
+    },
+    {
+      "start_time": 278,
+      "end_time": 279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Qué tal?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ce360e25-dd1c-4b05-adfc-c66531a12ce6"
+    },
+    {
+      "start_time": 279,
+      "end_time": 280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Cómo va la cosa?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bac1ad28-0b76-40cd-bb3f-be95040530e3"
+    },
+    {
+      "start_time": 280,
+      "end_time": 283,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La verdad que está medio cuido."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "29d02a22-65cd-4b87-8bd2-88d47842c068"
+    },
+    {
+      "start_time": 283,
+      "end_time": 284,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Qué es el que no me da verdad?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "18c2e9a4-7c3a-4254-a34a-efd08e2b3098"
+    },
+    {
+      "start_time": 284,
+      "end_time": 285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es una muy buena villa."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "03d0ef27-3acf-4516-970e-5869917cc70d"
+    },
+    {
+      "start_time": 285,
+      "end_time": 291,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Como te voy a ver del amparo, el otro compañero de la Villa de Antena responde."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "512adf88-c2b0-4208-8b74-465f7f5f4ee8"
+    },
+    {
+      "start_time": 292,
+      "end_time": 295,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "O sea, la Villa de Antena es una villa muy grande acá de Matanza."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "659684d8-c07c-456f-bd0a-e08303b28bd0"
+    },
+    {
+      "start_time": 295,
+      "end_time": 296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Está cerquita acá."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "440fdadc-5717-49d6-9b91-aaacde39a11e"
+    },
+    {
+      "start_time": 297,
+      "end_time": 303,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y ahí hay una comisión única que ayer en su reunión se ha asociado con compañero de insub."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9528857f-e4fd-471b-b14c-e51313650a21"
+    },
+    {
+      "start_time": 304,
+      "end_time": 312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ofrecen todo lo que pueden, ofrecen las casas de los compañeros para ustedes, para tener las cosas de ustedes, lo que necesitas."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1c61987c-0167-4eb5-9b96-c8dbbbbaea1e"
+    },
+    {
+      "start_time": 312,
+      "end_time": 314,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esa es el problema, Matias, no queríamos hablar nada."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "30df4d11-d634-4a77-a77a-c8df9e276661"
+    },
+    {
+      "start_time": 315,
+      "end_time": 318,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, y no está amenazado de muerte."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f19eee06-9cc6-4427-b6af-7aa725ab533d"
+    },
+    {
+      "start_time": 318,
+      "end_time": 321,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hace el día que no voy al caso."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "badf63a0-fef8-40b9-b2ca-62a2bd0137ff"
+    },
+    {
+      "start_time": 321,
+      "end_time": 324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En los primeros días tuve que llevarla a familia de otro lado."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "936ea59f-dbfb-43cd-817c-40a552d1823d"
+    },
+    {
+      "start_time": 325,
+      "end_time": 330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "También el compañero este Moreira, viste lo amenazado, lo tiró en la casa cuando sería toro."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "83d39250-b2ec-424b-a6ff-a4b459a708be"
+    },
+    {
+      "start_time": 332,
+      "end_time": 341,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La patronada por un lado no tiene el plomo todo el cuerpo y la burocracia no tiene el plomo también por otro lado."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1aa7a062-79f7-4571-9869-bd52eb0f2246"
+    },
+    {
+      "start_time": 341,
+      "end_time": 345,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Así que no tenemos alternativas de ningún lado, por todo lado estamos."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4e7185ac-1674-4bf1-9a2b-5edd890330c8"
+    },
+    {
+      "start_time": 346,
+      "end_time": 362,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ah, sí, pero nosotros seguimos teniendo confianza en el pueblo trabajador y el pueblo argentino que está unido y con esto no hay mejor fuerza más grande que el pueblo trabajador, el logrero que nos sale adelante."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "06bc2db1-f52e-4205-91a8-c0fbd7007c8d"
+    },
+    {
+      "start_time": 362,
+      "end_time": 368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Así que las banderas de nuestros compañeros que cayeron, como se hace de Paulito Burgat, la vamos a levantar y vamos a salir adelante."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4f328fcc-1091-48b0-9143-25ac5e46fe93"
+    },
+    {
+      "start_time": 383,
+      "end_time": 406,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ese es tener mala pata De cualquier forma me matan Las ollas que hierven, después se destapan El gas de la muerte se mete en las ropas Y el pobre operario lo lleva a su casa Ya ver extractores, la cosa no pasa"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "278d682a-8b89-45fa-891c-91044da31347"
+    },
+    {
+      "start_time": 407,
+      "end_time": 422,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Las máscaras brillan también por su ausencia y el cruelza, tú mismo destruye la mente, lo cubre por dentro, los asimpotentes y nadie se entera ni la presidente."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0abc8cd0-e46f-4648-88d8-723213e141be"
+    },
+    {
+      "start_time": 422,
+      "end_time": 433,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Te matan si no trabajo, y si trabajo me matan de hambre de plomo de bala,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "662adccb-d6d6-4bf3-a8c5-b0bc9862a539"
+    },
+    {
+      "start_time": 435,
+      "end_time": 439,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de alguna forma te matan."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3ca805f4-c4bb-404b-b5d9-37b6b748e4fd"
+    },
+    {
+      "start_time": 439,
+      "end_time": 455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En vez de ocultarles que están bien podridos, porque no les toman radiografías, habrá que pelearle a la policía, al médico, al trompa y a la infantería."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1bd3b3c3-ee77-4a5f-a9c7-80795d87d1fd"
+    },
+    {
+      "start_time": 456,
+      "end_time": 463,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me matan si no trabajo, y si trabajo me matan."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cfa9ba0a-59a6-4d18-83bb-eecc462e4c5f"
+    },
+    {
+      "start_time": 470,
+      "end_time": 473,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, yo entré en el cincuenta y cuatro."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "840cd15f-53af-40b7-a498-259940164057"
+    },
+    {
+      "start_time": 474,
+      "end_time": 475,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ya va a ser veinte años."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "537981ce-f90f-465d-acf1-f525fcd5df2d"
+    },
+    {
+      "start_time": 475,
+      "end_time": 482,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A mí me hicieron análisis como a todo el personal del asunto del plomo, de orine, de todo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "815a400d-54d6-4ff1-8dea-f6e5ea35ee5d"
+    },
+    {
+      "start_time": 483,
+      "end_time": 486,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pero todo el personal siempre salía perfectamente bien."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "95f56129-06fc-4aeb-a20d-63a329ba84a8"
+    },
+    {
+      "start_time": 487,
+      "end_time": 489,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Con los médicos de la compañía Sano y Bueno."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4fb2aca4-bbf7-4502-9c8c-2cb701c98239"
+    },
+    {
+      "start_time": 490,
+      "end_time": 497,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ahora nosotros cuimos a la elabona, se lo analicen, resumida cuenta que nosotros estamos entocicados con plomo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "de0ece6d-178a-4005-8264-dd01cb39dc19"
+    },
+    {
+      "start_time": 498,
+      "end_time": 502,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Todos los médicos a nosotros dijeron, ustedes dicen, no es tan enfermo, dice."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "94dbe9a2-eb89-4837-8e09-da756b0d8e30"
+    },
+    {
+      "start_time": 502,
+      "end_time": 504,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ustedes, lo que pasa, están podridos."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9c6b9f2d-9430-47a2-a5eb-6694df53bf11"
+    },
+    {
+      "start_time": 505,
+      "end_time": 508,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y así le pasó a otro compañero más antes, el compañero Conrado."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9c917cfa-fdfa-4854-b8be-c2ee91d0d38e"
+    },
+    {
+      "start_time": 509,
+      "end_time": 517,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "También le dijo que tenía angina roja y le puso las incesiones y ahí en la camilla como quedó, así quedó."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f98432b2-4a3c-45f3-aca7-69109945ee8f"
+    },
+    {
+      "start_time": 517,
+      "end_time": 519,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No se levantó mal, compañero."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a5592f1c-6039-41f8-8918-7a0933c67b39"
+    },
+    {
+      "start_time": 519,
+      "end_time": 519,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Por yo?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0cda08c7-f474-4e66-b8f7-a7c20a3bc681"
+    },
+    {
+      "start_time": 520,
+      "end_time": 520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sí, murió."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0cccb612-1041-4947-b2ee-11e1ca5df994"
+    },
+    {
+      "start_time": 521,
+      "end_time": 523,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El final con raro."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "65b122fb-c4e2-4e60-b66a-e94eedcf2e54"
+    },
+    {
+      "start_time": 523,
+      "end_time": 530,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No habrá alcanzado a colocar la mitad de la inyección cuando él dice que dos, tres, patado así y ahí quedó."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f3cee8ab-8341-4ef1-a03f-36943341bda6"
+    },
+    {
+      "start_time": 530,
+      "end_time": 533,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Usted acá me puede recorrer dos, tres cuadras."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9abe0f4b-b658-43eb-95f5-835ce6ce3ed5"
+    },
+    {
+      "start_time": 534,
+      "end_time": 536,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No va a encontrar un perro acá."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "479bc2cb-79a5-4447-8af3-a8f1ab395ed5"
+    },
+    {
+      "start_time": 536,
+      "end_time": 538,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No va a encontrar un gato tampoco."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2448d1fa-7e96-4270-ac29-27d64bfd1b38"
+    },
+    {
+      "start_time": 539,
+      "end_time": 541,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Por qué no lo va a encontrar a esos animales?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f6adcdd7-792d-4e5a-88b5-22f410bd6b00"
+    },
+    {
+      "start_time": 541,
+      "end_time": 543,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Porque la fábrica lo está matando."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "87717fb2-d1b7-4d8f-bc6f-628427e08d77"
+    },
+    {
+      "start_time": 544,
+      "end_time": 547,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que acá un gato, 48 horas, no dura la animales."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1e2eb6e9-9cd2-4530-8143-6e4fba47cabc"
+    },
+    {
+      "start_time": 548,
+      "end_time": 548,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se muere."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8c8b889c-c340-4dfb-86b9-b2be4b3cf079"
+    },
+    {
+      "start_time": 550,
+      "end_time": 552,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Este hizo es un cementerio."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "dc722213-b036-483d-869d-e921562c9ba6"
+    },
+    {
+      "start_time": 552,
+      "end_time": 555,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Otra cosa no se puede decir que es un cementerio."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a8493649-0b17-43f5-8829-ab136b8bfacf"
+    },
+    {
+      "start_time": 555,
+      "end_time": 558,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, me da, yo le digo al médico, mire, doctor, yo me siento mal."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fe9576de-590d-4775-86ef-23fde4bd4e98"
+    },
+    {
+      "start_time": 558,
+      "end_time": 565,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Entonces me dice, bueno, tome ese dos de ahí, tome esta pastillita, que se la da todo por dolor de cabeza, dolor de pies, se la da todo igual."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "60a937de-b332-4082-8abc-2554792ac088"
+    },
+    {
+      "start_time": 566,
+      "end_time": 568,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, a los dos días vengas a trabajar."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "62c607a8-153e-46a3-bc9f-b953d9517e5a"
+    },
+    {
+      "start_time": 568,
+      "end_time": 573,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, vengo a trabajar y le digo, mire, doctor, yo no voy a entrar a trabajar porque yo me siento mal."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "79db1b33-6793-40d0-91fe-c4b3985ebe4a"
+    },
+    {
+      "start_time": 573,
+      "end_time": 575,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me dice, mire, usted no tiene nada."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f259bbcb-7386-4b4f-9188-822498812249"
+    },
+    {
+      "start_time": 575,
+      "end_time": 577,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Digo, no, doctor, yo estoy enfermo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3037f69f-1ee4-4d24-a995-23c4eccfbc44"
+    },
+    {
+      "start_time": 577,
+      "end_time": 581,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Entonces me dice, bueno, arrelesé con el jefe personal, José María Cruzado."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "79d5b261-6977-4e6f-819c-c2075e756f63"
+    },
+    {
+      "start_time": 582,
+      "end_time": 584,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y yo, el médico me dijo así."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "83255ce4-ebbb-4404-9cde-056a6df258db"
+    },
+    {
+      "start_time": 584,
+      "end_time": 590,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo le dije, mire, yo me voy a hablar con quien sea, pues yo no tengo pelo en la lengua, si yo me siento mal, voy a ir a discutir con quien sea."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bbad59ee-530d-4213-afc9-56ef9e2b4c1b"
+    },
+    {
+      "start_time": 591,
+      "end_time": 592,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Voy a hablar con el jefe del personal, ¿viste?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "76e24fdf-57c2-4ae7-b130-185a18eb8f97"
+    },
+    {
+      "start_time": 593,
+      "end_time": 595,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y me dice el jefe del personal, ¿qué le pasa a usted?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "832f15c4-9b8a-4c36-87fe-e8cd765cce00"
+    },
+    {
+      "start_time": 595,
+      "end_time": 599,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo me digo, el médico, no sé, si me no me quiere atender o no sé lo que le pasa a él, le digo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "779f7db1-ba09-4eb3-b7da-662318850e64"
+    },
+    {
+      "start_time": 599,
+      "end_time": 601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo me siento mal y él me dice que no tengo nada."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e2b3ecc4-3c84-4981-a582-944be2826441"
+    },
+    {
+      "start_time": 601,
+      "end_time": 603,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me dice el médico de la fábrica, usted está mejor que yo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f07b718f-a253-4753-a2f2-5303345ed945"
+    },
+    {
+      "start_time": 604,
+      "end_time": 606,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo a usted le dije que usted estaba sano y no tenía nada, me dijo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "09479d46-fa76-4959-a961-205e3ef26614"
+    },
+    {
+      "start_time": 606,
+      "end_time": 609,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me dijo así como repotente, ¿viste?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "95ab291e-073c-4a6d-8bf0-6d79ab21a375"
+    },
+    {
+      "start_time": 609,
+      "end_time": 610,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, le digo, está bien."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "37c983c4-c666-4392-b93e-4b4f559f0dae"
+    },
+    {
+      "start_time": 610,
+      "end_time": 612,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dice, el lunes venga a trabajar."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3046e2e9-6aec-4e1b-8605-33d890aecd40"
+    },
+    {
+      "start_time": 612,
+      "end_time": 614,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esto fue un día, víbamos, ¿viste?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a1d198c8-a24d-4318-8dd1-9a213f066fed"
+    },
+    {
+      "start_time": 614,
+      "end_time": 615,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El lunes venga a trabajar."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d021ab68-ef40-4286-a693-5372ab01ed01"
+    },
+    {
+      "start_time": 615,
+      "end_time": 618,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ahora yo el lunes tenía que ir al médico de la bomba, ¿viste?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0c52096f-484f-49cc-9dc8-d11780d56762"
+    },
+    {
+      "start_time": 618,
+      "end_time": 619,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, yo no era metalúrgica."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "28e80f14-5599-4e75-88db-8f0b74641099"
+    },
+    {
+      "start_time": 620,
+      "end_time": 625,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, voy allá y les llevo los análisis al médico al perín, al doctor al perín que nos salvó la vida a nosotros, como se dijo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "323b416f-ab36-4f4f-b89d-f2ebc7b05146"
+    },
+    {
+      "start_time": 626,
+      "end_time": 628,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y este... Me dice, pibes, vos estás repodrido."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8b3eca1e-bd84-4d43-97c3-8a59bf57d0e2"
+    },
+    {
+      "start_time": 629,
+      "end_time": 632,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Entonces ahí me mandó a hacer los análisis con la doctora Anasín Germán."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "02ad8f28-e488-4b69-b563-ca6e5d13aa10"
+    },
+    {
+      "start_time": 632,
+      "end_time": 634,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y así, efectivamente, fue que estaba repodrido."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f3baf87d-d1b1-4bb0-a3ee-1d35660b29b3"
+    },
+    {
+      "start_time": 634,
+      "end_time": 636,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y ya, mirad, ya te digo, siete meses."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f39bea27-1fb7-40d3-8a83-9adbb0c1b084"
+    },
+    {
+      "start_time": 636,
+      "end_time": 638,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Así que vos podés fijarte qué clase de médico."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5183e8c7-eade-4cfa-82fc-a4758b12ae76"
+    },
+    {
+      "start_time": 638,
+      "end_time": 643,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creo que el ejemplo, el siglo tenemos que dar los obridos, como hay muchas oportunidades."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "373efadf-4b21-4a86-9a3e-e86cdf620f82"
+    },
+    {
+      "start_time": 643,
+      "end_time": 644,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "29 de marzo de 1974."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "85fda19a-f3ac-455c-9b86-6f01912e4264"
+    },
+    {
+      "start_time": 648,
+      "end_time": 655,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cansados de tantas promesas oficiales, los obreros de insult y la matanza deciden movilizarse hacia el Congreso."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8ba3297e-9827-4e1f-8207-ec4b28ab7123"
+    },
+    {
+      "start_time": 672,
+      "end_time": 686,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "prácticamente del país porque los compañeros que están enfermos con plomo de la sangre y el ditame que nosotros vamos al Congreso para que salga una ley que favoreca la clase obrera en general."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f6651f08-e629-4c4e-958e-4b44705cfbd9"
+    },
+    {
+      "start_time": 686,
+      "end_time": 691,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eso es compañero, eso es lo que nosotros vamos a pedir allá."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ed244302-c2a3-43c4-baf5-f5f08c44155b"
+    },
+    {
+      "start_time": 692,
+      "end_time": 692,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¡Suscríbete!"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "56c74578-d09c-40ec-bf2e-e959656bcdc5"
+    },
+    {
+      "start_time": 692,
+      "end_time": 693,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¡Suscríbete!"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "42f6d505-3add-46c5-be6a-4f6721a62c5d"
+    },
+    {
+      "start_time": 693,
+      "end_time": 693,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¡Suscríbete!"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "53208bad-6a0c-4864-8ad9-b8a936ebbf2a"
+    },
+    {
+      "start_time": 724,
+      "end_time": 725,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay ay ay..."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "376ce47b-e392-422a-bdb2-61eaca8d6604"
+    },
+    {
+      "start_time": 731,
+      "end_time": 743,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y que sea ahora mismo, y que sea ahora mismo, que nos trabe las quiseas, y que se acabe, y que se acabe, y que se acabe."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ec8c2c1a-d7e4-456a-8210-6e2d55a55c8c"
+    },
+    {
+      "start_time": 758,
+      "end_time": 759,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¡Que va cabez!"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "13b1e6d7-35e2-4dc7-b9e0-fa4e0fcdcaaf"
+    },
+    {
+      "start_time": 773,
+      "end_time": 789,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se han expuesto largamente el problema, le han entregado el petitorio y los diputados se han comprometido a asumir el problema y hacer todo lo posible dentro de este marco limitado, como saben ustedes, que es el Parlamento."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "42351c42-ca29-48e0-a09b-55f3b4efd303"
+    },
+    {
+      "start_time": 789,
+      "end_time": 804,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pero han sido atendidos, han comprendido la justicia de la lucha, la insalubridad absoluta que hay en el Sud, que es una de las empresas más fuertes, moropólicas del Grupo Hoshil y que explota a sus obreros en la forma más lamentable que puede ocurrir en la Argentina."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "314ca151-f087-466b-b5b2-9ad44c2da767"
+    },
+    {
+      "start_time": 805,
+      "end_time": 809,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Este peditorio ha sido recogido y va a ser movido del Congreso el problema."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9ee9ffed-f093-4419-94f6-1d1d06b2b404"
+    },
+    {
+      "start_time": 810,
+      "end_time": 816,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pero una vez más queremos recordar, la lucha no se libra del Congreso, sino que la libra a los propios trabajadores."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "007e7bc6-f87c-4a7b-a4dd-27dc52312bd0"
+    },
+    {
+      "start_time": 816,
+      "end_time": 818,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sólo el pueblo salvará al pueblo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b0bbeb43-cf3b-4577-a3ee-ed6e00d45766"
+    },
+    {
+      "start_time": 818,
+      "end_time": 819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No debemos olvidar esto."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5f97df14-b4e7-432b-adc9-ecb2fc000d2d"
+    },
+    {
+      "start_time": 819,
+      "end_time": 820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¡Mobilización!"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "74442a50-068b-44e0-aef5-544b5a137fae"
+    },
+    {
+      "start_time": 820,
+      "end_time": 823,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¡Hasta la solución!"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e9a49bc8-96ec-4add-a3f2-23a01504f972"
+    },
+    {
+      "start_time": 823,
+      "end_time": 824,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¡Mobilización!"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6cedc462-240d-4b67-bcd2-a3fa63e8ed8a"
+    },
+    {
+      "start_time": 824,
+      "end_time": 826,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¡Hasta la solución!"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3ed70c3e-b708-4cd6-be50-8350a6a18ba8"
+    },
+    {
+      "start_time": 832,
+      "end_time": 845,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ortega Peña, diputado del pueblo, abogado de presos políticos, apoyó siempre los ofrezos en conflicto, buscó continuamente la unidad entre la izquierda combativa y los sectores revolucionarios del peronismo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b25d5604-5f92-4d28-9727-cb6f554ff606"
+    },
+    {
+      "start_time": 846,
+      "end_time": 859,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fue asesinado el 1 de agosto de 1974 por la sinista organización para el militar, las 3A, pagadas y armadas por este gobierno pro-patronal y pro-imperialista."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "039da567-4d20-48a2-9c16-08d1766870ae"
+    },
+    {
+      "start_time": 861,
+      "end_time": 863,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esta película es nuestro homenaje."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8994440c-4dd3-49cd-8708-0460f7f530c2"
+    },
+    {
+      "start_time": 864,
+      "end_time": 870,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Compañero Ortega Peña, presente hasta la victoria siempre."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0703eda2-5692-4180-b39b-32a733e55a6c"
+    },
+    {
+      "start_time": 872,
+      "end_time": 900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "porque nosotros vamos a ir y el trabajador no le ataja paredes ni ametrilladora ni tanque porque nosotros estamos para defender como argentino y como argentino vamos a hacer todo lo que tenga nuestro alcance compañero y por lo tanto vemos que vamos a seguir adelante la barrera no hay barrera para el trabajador no hay barrera para pedir lo que a nosotros hace falta nosotros estamos enfermos"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "48b9dfc2-3005-4082-b6e3-eb745276138c"
+    },
+    {
+      "start_time": 901,
+      "end_time": 902,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No podemos trabajar."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1633b2a1-23a4-487b-bb75-2947da6d0095"
+    },
+    {
+      "start_time": 902,
+      "end_time": 905,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Prácticamente somos hombres inútiles."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c8c49917-4635-43f4-acc5-34c9c80ef171"
+    },
+    {
+      "start_time": 905,
+      "end_time": 907,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Hombres inútiles por qué?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7bf93428-97f2-4a0e-8501-f058cf2b6a85"
+    },
+    {
+      "start_time": 907,
+      "end_time": 916,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Porque las empresas, los monopolios, los únicos que les interesa hacerse, más ricos, más ricos cada vez, a causa de nuestra vida."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "eb8a2b7a-11eb-471d-8833-17ca73603c84"
+    },
+    {
+      "start_time": 916,
+      "end_time": 919,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y nuestra vida vamos a dar sí, vamos a dar nuestra vida."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c8e12b53-6bdc-4468-be06-dc5c141b19e9"
+    },
+    {
+      "start_time": 919,
+      "end_time": 922,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pero reclamamos lo que tenemos que reclamar."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "83faa03b-661e-4ecf-92e5-89627bc61f46"
+    },
+    {
+      "start_time": 922,
+      "end_time": 925,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Haciendo justicia, pedir que se haga justicia."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "56272212-d098-407f-8e55-661c06d2f2b9"
+    },
+    {
+      "start_time": 925,
+      "end_time": 927,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y la justicia como lo vamos a hacer, movilizando."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8161843c-0f4b-4d0d-8f35-b20f3cbe5292"
+    },
+    {
+      "start_time": 928,
+      "end_time": 931,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y la jospiera de la puerta y hacer todo lo que tengo que hacer."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8b510c1c-c232-4e26-8fc6-1cc70195f7c0"
+    },
+    {
+      "start_time": 931,
+      "end_time": 931,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nada más."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "64393b7d-2fe5-4b0e-9963-a2ecf11b2041"
+    },
+    {
+      "start_time": 948,
+      "end_time": 950,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Los obreros de Insud obtienen su primer triunfo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3475198f-b831-4eb5-a00c-176eede00c5b"
+    },
+    {
+      "start_time": 951,
+      "end_time": 960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La patronal del señor Hoshil, varón del estaño boliviano que amasó su fortuna con la sangre y el sudor de varias generaciones de sudamericanos, fue parcialmente derrotada."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "671029e1-e4be-4349-8e39-1919735a808f"
+    },
+    {
+      "start_time": 962,
+      "end_time": 966,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En Insud, el capitalismo no ha reparado en hacer peligrar la vida de los obreros."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f159ef98-1375-4d98-b28d-914bce1cbadf"
+    },
+    {
+      "start_time": 966,
+      "end_time": 976,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es que el capitalismo solo puede obtener sus ganancias explotando a los trabajadores, robándoles la parte de las utilidades que les corresponde."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a3448662-9c6a-475d-9340-f0751988202f"
+    },
+    {
+      "start_time": 977,
+      "end_time": 983,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Los obreros, a pesar de ser los verdaderos productores de las riquezas, no son los dueños de las máquinas."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ffa8fec8-28b7-4bb1-8fdb-2ec7563dbe9f"
+    },
+    {
+      "start_time": 984,
+      "end_time": 987,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Los capitalistas, sí."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0fdb79a9-8a64-4666-8932-26a954f1755d"
+    },
+    {
+      "start_time": 987,
+      "end_time": 990,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dejemos que expliquen cómo han llegado a conseguirlas."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d5d72ef3-6bc7-4e4d-8782-24abb1442456"
+    },
+    {
+      "start_time": 991,
+      "end_time": 993,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mi familia tenía tierras."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "382009e0-1e80-4d02-a287-be30b7fa9305"
+    },
+    {
+      "start_time": 993,
+      "end_time": 996,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vendí las tierras y me compré una máquina."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e50ec165-c8a0-4559-b328-4c4be65144fb"
+    },
+    {
+      "start_time": 997,
+      "end_time": 998,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contratea a un obrero."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "72fcb114-18cd-4b5c-9182-7bda6ab0ae14"
+    },
+    {
+      "start_time": 999,
+      "end_time": 1000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Compré la materia prima"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4ad66db5-36bb-425c-a632-4fab18b2a155"
+    },
+    {
+      "start_time": 1008,
+      "end_time": 1014,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que fabricamos uno, dos, tres sombreros."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "41aff6a6-5743-4e1b-88c1-c2e04c674caf"
+    },
+    {
+      "start_time": 1014,
+      "end_time": 1018,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dí un sombrero al obrero y los otros dos fueron para mí."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "38ebeecb-dab8-4272-ab1f-3baf2ee67e0d"
+    },
+    {
+      "start_time": 1018,
+      "end_time": 1020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Para qué querías yo dos sombreros?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "083d5a81-f509-46e5-a300-6535431ce113"
+    },
+    {
+      "start_time": 1021,
+      "end_time": 1026,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vendí un sombrero y compré otra máquina y otro obrero..."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b0897683-7218-4cda-95bf-fbbffb9fda42"
+    },
+    {
+      "start_time": 1029,
+      "end_time": 1035,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que lujeron dos, cuatro, seis sombreros."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d85f04bb-c704-415c-8466-7ef54ed25483"
+    },
+    {
+      "start_time": 1035,
+      "end_time": 1038,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Le di uno a cada obrero y nosotros cuatro."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ee0369a3-e374-41a9-bd08-333614c6e901"
+    },
+    {
+      "start_time": 1039,
+      "end_time": 1040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Claro, fueron para mí."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0de86bd6-a018-4337-aded-76ea4c32f3c9"
+    },
+    {
+      "start_time": 1041,
+      "end_time": 1041,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El de la idea."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0dfa63a5-2fa6-4151-9c58-7953fda8a647"
+    },
+    {
+      "start_time": 1042,
+      "end_time": 1049,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vendí otro sombrero, compré otra máquina y al fin, aquí me tienen todos los contentos y nadie protesta."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "651607f0-2ae9-4f8f-9d87-8abbb19c429b"
+    },
+    {
+      "start_time": 1050,
+      "end_time": 1055,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo creo que nosotros, los obreros, somos quienes tenemos que mandar adentro de la fábrica."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f349fe55-2cfc-4784-b893-228af7745c8a"
+    },
+    {
+      "start_time": 1056,
+      "end_time": 1060,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "O sea, que no tenemos que esperar que los mande la patronal, digamos lo cierto."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "544234e8-98e4-46e5-802f-c1373c7f7dd7"
+    },
+    {
+      "start_time": 1060,
+      "end_time": 1063,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "O sea, los patrones tenemos que hacer nosotros mismos los obreros."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9996f77e-ba48-4e1f-a562-d67f5e76ff0a"
+    },
+    {
+      "start_time": 1063,
+      "end_time": 1069,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tenemos que llegar a unirnos todos los compañeros, todos los obreros y ser nosotros quienes tengamos que mandar."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "57c75414-ee61-4304-9681-42642d6ba1b6"
+    },
+    {
+      "start_time": 1070,
+      "end_time": 1071,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "en fábrica."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0c27dbf5-1a85-4bc6-9d59-b8fcf8b94df0"
+    },
+    {
+      "start_time": 1071,
+      "end_time": 1077,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, la verdad que esto que llegó a terminar de decir es muy interesante, ¿sabe por qué?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3d798edf-74b9-4f6a-8006-83ce700ec328"
+    },
+    {
+      "start_time": 1077,
+      "end_time": 1090,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Porque ahora los compañeros tomaron conciencia, tomaron conciencia que la patronal lo único que le interesa es ganar más y más, pero no le interesa la vida de los compañeros o la vida del trabajador."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6b973bf3-4f1c-4959-b343-02e4a9be3644"
+    },
+    {
+      "start_time": 1090,
+      "end_time": 1117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lo único que le interesa es eso, el dinero y el dinero, pero ahora se va a terminar, porque acá los compañeros ya saben que no se van a prestar más a los juegos de la compañía, porque acá demasiado buenos son los compañeros, porque ellos venían y le pasaban la mano por sobre el hombro y le decía, hacemos una gauchada y hacemos el trabajo, pero la gauchada eso costó vida y eso se tiene que terminar."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3082bc5b-160d-4ff9-9e19-d7bb20bd88f4"
+    },
+    {
+      "start_time": 1118,
+      "end_time": 1126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y ahora, de hoy adelante, se va a terminar porque ahora sabemos que la patronal... esta, de ahí, eso es una patronal, la asesina."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f343c388-b9f9-46e2-973d-59f607b67212"
+    },
+    {
+      "start_time": 1127,
+      "end_time": 1129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Porque lo único que le interesa es matar a la gente."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0c290ba1-9ca4-44cd-92d0-f42d2da4e4ae"
+    },
+    {
+      "start_time": 1129,
+      "end_time": 1130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por eso que estamos hablando de la lucha."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0d5f034b-7bdf-49f4-bc5a-fdc0e744c099"
+    },
+    {
+      "start_time": 1130,
+      "end_time": 1137,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La lucha tendrá que seguir para que el sindicato, por ejemplo, haya verdaderos representantes del obrero."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2aaceaaa-f551-43dd-925e-d739f76f76d2"
+    },
+    {
+      "start_time": 1137,
+      "end_time": 1139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para que se cumple lo que se votó el 11 de marzo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ddeefdcc-e8ac-4ff7-b816-b68777074b79"
+    },
+    {
+      "start_time": 1139,
+      "end_time": 1143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Porque toda la gente, todos los obreros, creo que votamos el 11 de marzo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ada5fe10-5e6d-4c59-8bc7-ac65527cdb3b"
+    },
+    {
+      "start_time": 1143,
+      "end_time": 1145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No votamos esto, sino votamos una liberación."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2abae139-4bdd-4bf5-a2ce-bdf66edf7f93"
+    },
+    {
+      "start_time": 1146,
+      "end_time": 1149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que hasta ahora no se ha cumplido nada."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7ebecf80-2270-4505-84a5-2e9eb1b5dd9c"
+    },
+    {
+      "start_time": 1149,
+      "end_time": 1164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esperamos que con la lucha de nosotros, pero de las bases, que hay que formar una coordinadora, que se levanten las bases de fábricas o de agrupaciones, sindicales, combativas o barrios, no sé, como verdad."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a61f8086-f68f-45a4-8c1f-3113a9483dd7"
+    },
+    {
+      "start_time": 1164,
+      "end_time": 1166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pero la lucha tiene que seguir adelante."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "16597f63-1fb7-447f-94db-59f733e82d9c"
+    },
+    {
+      "start_time": 1167,
+      "end_time": 1173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hay un solo camino hacia la liberación."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "de2a5839-d123-4b96-9aaa-39b16a875d80"
+    },
+    {
+      "start_time": 1175,
+      "end_time": 1179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unir al pueblo entero contra la explotación."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bc7dea0a-679b-45ed-8d5b-8af8c1232cbc"
+    },
+    {
+      "start_time": 1181,
+      "end_time": 1187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Preparen ocasiones y la lucha sindical."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "61aed680-0fb3-45e7-a567-32e7dd92f838"
+    },
+    {
+      "start_time": 1187,
+      "end_time": 1192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y hagamos todos juntos la revolución social."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0fc859bc-c74c-4222-b157-060a94d131f2"
+    },
+    {
+      "start_time": 1193,
+      "end_time": 1195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hay un solo camino."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ce8d74f6-0d54-4d08-a4eb-15110494d31c"
+    },
+    {
+      "start_time": 1197,
+      "end_time": 1222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camino elemental Toda la casi obrera Contrae el pacto social Vayamos todos juntos Que juntos somos más Dígan que si patrones Los vamos a reventar Los vamos a reventar Los vamos a reventar Los vamos a reventar"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "30b7571b-7426-42ba-b21a-b2c16fb30bfa"
+    },
+    {
+      "start_time": 1228,
+      "end_time": 1230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¡No aparenta!"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c31f24b2-e052-4099-b1aa-8848f7af0ae3"
+    }
+  ],
   "set": "Default",
   "event_id": "7fe2ec6b-3c7c-45da-814a-1331eba0bb03",
   "source_id": "558cf99d-a820-49cc-ae23-72d5dbe7301b"
