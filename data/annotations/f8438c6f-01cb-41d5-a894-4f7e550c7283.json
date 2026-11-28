@@ -1,5 +1,5802 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 13,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "con lucha como freco."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "lucha"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-incompleto"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "conflicto-laboral"
+        }
+      ],
+      "uuid": "dccccb0c-64e1-4608-af93-0970d55ec14a"
+    },
+    {
+      "start_time": 15,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Estos obreros enfermos de la empresa monopÃ³lica INSUD, consiguieron un pequeÃ±o gran triunfo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "triunfo-obrero"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "empresa-monopolica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "narracion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "INSUD"
+        }
+      ],
+      "uuid": "0cb4c156-d7a6-4dfb-9ddb-d9c7e0cecb59"
+    },
+    {
+      "start_time": 21,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y dos dÃ­as de olla popular, de mÃ¡s de tres meses en conflicto."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "olla-popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "duracion-del-conflicto"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "conflicto-laboral"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dos dias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "tres meses"
+        }
+      ],
+      "uuid": "7fb1a723-cb2b-4bdc-a941-b9879e1d4780"
+    },
+    {
+      "start_time": 26,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y el mismo dÃ­a en que los obreros se movilizaron al Congreso, la empresa decidiÃ³ pagar las seis quincenas adeudadas y reconocer la existencia de Saturnismo, intoxicaciÃ³n de plomo en la sangre, tantas veces negadas por la misma patronal asesina."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "movilizacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "quincenas-adeudadas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reconocimiento-de-la-enfermedad"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Congreso"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "seis quincenas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Saturnismo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "plomo"
+        }
+      ],
+      "uuid": "703f4a93-3aa8-4213-b55d-e2ef42f4fcff"
+    },
+    {
+      "start_time": 43,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El Saturnismo es una enfermedad grave que va matando lentamente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Saturnismo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "enfermedad-grave"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "intoxicacion-por-plomo"
+        }
+      ],
+      "uuid": "1839563d-84ac-4b63-a119-9521aefe7f0b"
+    },
+    {
+      "start_time": 48,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "De 81 obreros analizados, 79 estaban intoxicados con plomo en la sangre."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "datos-medicos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "analisis-de-sangre"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "intoxicacion-masiva"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "81 obreros"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "79 intoxicados"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "plomo"
+        }
+      ],
+      "uuid": "7b43df4f-7dd9-43f5-ad33-b6d6a1efe2b8"
+    },
+    {
+      "start_time": 54,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dos murieron recientemente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "muertes-obreras"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dato-reciente"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "consecuencias-de-la-enfermedad"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dos muertos recientes"
+        }
+      ],
+      "uuid": "0b9345b1-b184-4c98-9703-88fb8b0faa05"
+    },
+    {
+      "start_time": 57,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El Saturnismo es impotencia sexual, dolor de cabeza insoportable, dolor en los huesos, mareos, hormigueos en los pies, acidez estomacal, mucho sueÃ±o, debilidad general."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sintomas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "descripcion-clinica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "salud-obrera"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Saturnismo"
+        }
+      ],
+      "uuid": "e6f52007-9793-4196-a7d4-3892001338db"
+    },
+    {
+      "start_time": 71,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La ropa estÃ¡ contaminada y al lavarla en las casas se intoxican tambiÃ©n las mujeres y los hijos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "contaminacion-domestica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ropa-de-trabajo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "salud-familiar"
+        }
+      ],
+      "uuid": "09728ff7-21cd-4eda-96d5-50ef39c10844"
+    },
+    {
+      "start_time": 85,
+      "end_time": 103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y ahora el 18 de enero se lo muere el compaÃ±ero paulito burgare y decÃ­a paro cardiaco y yo creo que todos los compaÃ±eros que se estÃ¡n muriendo ahora en la fecha que la patronal prÃ¡cticamente lo estÃ¡ matando todos los compaÃ±eros puede ser que todos los que suframos paro cardiaco estemos en inicio"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "testimonio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "muerte-de-companiero"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "paro cardiaco"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "18 de enero"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Paulito Burgat"
+        }
+      ],
+      "uuid": "9b806637-35ee-4780-94da-c9070ab82003"
+    },
+    {
+      "start_time": 102,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo creo que es un poco de la misma fÃ¡brica que estamos atando a los compaÃ±eros y es algo que el plomo estÃ¡ apetando a la gente, digamos, que esa enfermedad sea, digamos, de paro cardÃ­aco."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "hipotesis-causal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "plomo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fabrica-como-causa"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "paro cardiaco"
+        }
+      ],
+      "uuid": "b766bf6a-6535-465d-9d7a-dbcc17316407"
+    },
+    {
+      "start_time": 117,
+      "end_time": 124,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, yo de lo que te puedo decir, se ve bien que de los 17 aÃ±os que llevo de trabajo allÃ¡,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "antiguedad-laboral"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "experiencia-obrera"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "relato-en-primera-persona"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "17 anios de trabajo"
+        }
+      ],
+      "uuid": "71220939-689e-49bd-aec1-89d18fb6a68b"
+    },
+    {
+      "start_time": 124,
+      "end_time": 127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Todos los compaÃ±eros que murieron, todos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "mortalidad-obrera"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "companieros-fallecidos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "memoria-colectiva"
+        }
+      ],
+      "uuid": "8e3198ab-6212-4e7b-be37-451792644fee"
+    },
+    {
+      "start_time": 128,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La defunciÃ³n decÃ­a para los cardiacos, asÃ­ que quiere decir que todos los cardiacos vinieron a trabajar a ILSUM."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "certificados-de-defuncion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "sospecha-patronal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "causa-de-muerte"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "INSUD"
+        }
+      ],
+      "uuid": "047c0cbe-e975-4bc6-8737-795ab2b33f30"
+    },
+    {
+      "start_time": 133,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No puede ser, debe ser."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "razonamiento"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "certeza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-breve"
+        }
+      ],
+      "uuid": "91f9f6e1-70ff-47a5-8685-abd745f3a2ef"
+    },
+    {
+      "start_time": 134,
+      "end_time": 144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Con respecto a la misma enfermedad de esto de desatornismo que estamos sufriendo nosotros, que antes no se destapÃ³ a la bolsa, pero ahora como se destapÃ³ a la bolsa, es ese."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "ocultamiento-de-la-enfermedad"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "identificacion-de-la-causa"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Saturnismo"
+        }
+      ],
+      "uuid": "f0b34dc3-90a8-48fd-9e50-033d3255bd7c"
+    },
+    {
+      "start_time": 148,
+      "end_time": 152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¡Viva la viva, la olla popular!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "canto"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "olla-popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "estribillo"
+        }
+      ],
+      "uuid": "a881975b-7cb7-4f9f-83f8-3a7f5b2a2db7"
+    },
+    {
+      "start_time": 151,
+      "end_time": 156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¡Y nunca, y nunca tenemos que aflojar!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "perseverancia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "resistencia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "consigna"
+        }
+      ],
+      "uuid": "4a0896dd-6bce-4d23-893d-5c3c7ae9cf56"
+    },
+    {
+      "start_time": 155,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¡Y viva, y viva la olla popular!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "solidaridad-barrial"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "alabanza-a-la-olla"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "estribillo"
+        }
+      ],
+      "uuid": "761eeb72-20a8-4071-ada8-f2e7b85d210f"
+    },
+    {
+      "start_time": 160,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¡Y nunca, y nunca tenemos que aflojar!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "no-ceder"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "lucha-sostenida"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "estribillo"
+        }
+      ],
+      "uuid": "0b5a9bf0-c347-4d79-8bca-e64d5d739e3a"
+    },
+    {
+      "start_time": 163,
+      "end_time": 169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¡Y carne, y hueso, ni aceite en la sartÃ©n!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "carencia-alimentaria"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "pobreza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "canto"
+        }
+      ],
+      "uuid": "07fdd80c-7299-419b-9898-a42e72b25f4f"
+    },
+    {
+      "start_time": 168,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Un poco de agua y polenta de almacÃ©n, ni un guita ni un mango, quisena sin cobrar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "alimentacion-precaria"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo-sin-paga"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "olla-popular"
+        }
+      ],
+      "uuid": "e33f7630-f97d-4334-8766-7a2da4460a5f"
+    },
+    {
+      "start_time": 176,
+      "end_time": 188,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por eso quesemos la olla popular, que el barrio y la gente nos trae de morfar, y viva, y viva la olla popular."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "solidaridad-barrial"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "alimento-comunitario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "lunfardo"
+        }
+      ],
+      "uuid": "4d573355-0964-4f29-8fa5-f72ee7d27eaf"
+    },
+    {
+      "start_time": 188,
+      "end_time": 214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La ajeta de alguno no puedes asupar Los ganas milicos te vas a nachagar Y viva, y viva la olla popular Y viva mi muerto tenemos que aflojar Y viva, y viva la olla popular Y nunca, y nunca tenemos que aflojar"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "critica-a-los-militares"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-ininteligible"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "estribillo"
+        }
+      ],
+      "uuid": "02f32abf-00fc-4cba-ab2b-e491f3ecce73"
+    },
+    {
+      "start_time": 214,
+      "end_time": 227,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No se quiere decir que la movilizaciÃ³n y todo lo que hasta la fecha hemos trabajado y la conciencia de todos los sobreros de Matanza estÃ¡n con nosotros."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "discurso-politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "conciencia-obrera"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "movilizacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Matanza"
+        }
+      ],
+      "uuid": "bd2a386c-3ad7-405e-a7dd-3b652bc1b2c5"
+    },
+    {
+      "start_time": 226,
+      "end_time": 238,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y ya, como les dije, en varias oportunidades, acÃ¡ nosotros vamos a salir adelante con todos los compaÃ±eros, con todo Matanza y vamos a ir adelante y caiga, quien caiga,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "lucha-colectiva"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "determinacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "unidad-obrera"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Matanza"
+        }
+      ],
+      "uuid": "7d63a423-4129-4c7a-83fd-a8e877ac08a4"
+    },
+    {
+      "start_time": 238,
+      "end_time": 245,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "vamos a ir adelante, porque este problema no es un problema de Inso nada mÃ¡s, sino es un problema del paÃ­s."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "problema-del-pais"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "alcance-nacional"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "conflicto-laboral"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "INSUD"
+        }
+      ],
+      "uuid": "4eb5b307-6755-41a5-a428-d5490c0c4fc7"
+    },
+    {
+      "start_time": 244,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y hacer el problema del paÃ­s es el problema de todos los trabajadores."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "clase-trabajadora"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "solidaridad-de-clase"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "responsabilidad-colectiva"
+        }
+      ],
+      "uuid": "32964807-dd5f-45dd-9be6-3abf00c2e6cc"
+    },
+    {
+      "start_time": 249,
+      "end_time": 256,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y con ese problema de trabajadores ustedes saben que eso no es Ãºnico que pueden salvar el paÃ­s."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "salvacion-del-pais"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "protagonismo-obrero"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "discurso-politico"
+        }
+      ],
+      "uuid": "214e2da4-322b-48d3-9f5a-ebbdb57102aa"
+    },
+    {
+      "start_time": 256,
+      "end_time": 262,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para perder ya no tenemos nada, pero para ganar tenemos bastante."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "nada-que-perder"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "determinacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "consigna"
+        }
+      ],
+      "uuid": "0baf8dce-531a-48d4-be69-9b1855993dbd"
+    },
+    {
+      "start_time": 261,
+      "end_time": 267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ayer compaÃ±ero, adelante y vamos a ir en cualquier lado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "conversacion-informal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "audio-poco-claro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "desplazamiento"
+        }
+      ],
+      "uuid": "d73aaccf-abf5-4255-8b93-94a786a97a5a"
+    },
+    {
+      "start_time": 266,
+      "end_time": 270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Algunos no transformen, llegaron de algÃºn otro lado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "llegada-de-companieros"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "procedencia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-ininteligible"
+        }
+      ],
+      "uuid": "2be4f9f4-3529-4904-a90c-5bd8954e7bff"
+    },
+    {
+      "start_time": 274,
+      "end_time": 278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Trabajamos a comer a el compaÃ±ero."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "audio-poco-claro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "companerismo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "conversacion-informal"
+        }
+      ],
+      "uuid": "c67f4fb5-bb8c-4981-b271-499c6c3910c9"
+    },
+    {
+      "start_time": 277,
+      "end_time": 279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¿El compaÃ±ero?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "pregunta"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dialogo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-breve"
+        }
+      ],
+      "uuid": "3f4e9b92-0c41-4fac-a1b8-9beb4e075981"
+    },
+    {
+      "start_time": 278,
+      "end_time": 280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¿QuÃ© tal?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "saludo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "intercambio-verbal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "conversacion-informal"
+        }
+      ],
+      "uuid": "f6022f29-26c5-4c01-8b1d-9bb90122b024"
+    },
+    {
+      "start_time": 279,
+      "end_time": 281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¿CÃ³mo va la cosa?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "pregunta-por-la-situacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dialogo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-breve"
+        }
+      ],
+      "uuid": "6a31ddbc-7b5b-4e89-bb6d-2be08164dbfd"
+    },
+    {
+      "start_time": 280,
+      "end_time": 284,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La verdad que estÃ¡ medio cuido."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "respuesta"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "estado-de-la-situacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "audio-poco-claro"
+        }
+      ],
+      "uuid": "c3b14f43-c6c6-44c5-a2b3-a35aa9b3bb9c"
+    },
+    {
+      "start_time": 283,
+      "end_time": 285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¿QuÃ© es el que no me da verdad?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "pregunta"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "duda"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-ininteligible"
+        }
+      ],
+      "uuid": "cc334feb-8446-4101-9f33-7c1710768012"
+    },
+    {
+      "start_time": 284,
+      "end_time": 286,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es una muy buena villa."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "villa"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "valoracion-del-barrio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dialogo"
+        }
+      ],
+      "uuid": "a810dab2-6d7a-439d-8b22-0ccdce54dffa"
+    },
+    {
+      "start_time": 285,
+      "end_time": 292,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Como te voy a ver del amparo, el otro compaÃ±ero de la Villa de Antena responde."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "presentacion-de-companiero"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "apoyo-barrial"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "audio-poco-claro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Villa de Antena"
+        }
+      ],
+      "uuid": "c5d47332-260c-488a-95e0-414d79bf81c1"
+    },
+    {
+      "start_time": 292,
+      "end_time": 296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "O sea, la Villa de Antena es una villa muy grande acÃ¡ de Matanza."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "villa"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "descripcion-del-lugar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "geografia-local"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Villa de Antena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Matanza"
+        }
+      ],
+      "uuid": "2b44c18e-e48f-4793-9fe2-f37933376e63"
+    },
+    {
+      "start_time": 295,
+      "end_time": 297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "EstÃ¡ cerquita acÃ¡."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "cercania"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-breve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dialogo"
+        }
+      ],
+      "uuid": "496438f0-4a9e-470d-8b13-d6f630489e23"
+    },
+    {
+      "start_time": 297,
+      "end_time": 304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y ahÃ­ hay una comisiÃ³n Ãºnica que ayer en su reuniÃ³n se ha asociado con compaÃ±ero de insub."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "comision-unica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "alianza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "solidaridad-territorial"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "INSUD"
+        }
+      ],
+      "uuid": "d61ccff8-7636-449b-a391-3e90fb3a68e3"
+    },
+    {
+      "start_time": 304,
+      "end_time": 313,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ofrecen todo lo que pueden, ofrecen las casas de los compaÃ±eros para ustedes, para tener las cosas de ustedes, lo que necesitas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "ofrecimiento-de-casas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "solidaridad-barrial"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "apoyo-material"
+        }
+      ],
+      "uuid": "798f27d6-0aeb-4f8b-9587-7459f90571de"
+    },
+    {
+      "start_time": 312,
+      "end_time": 315,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esa es el problema, Matias, no querÃ­amos hablar nada."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "miedo-a-hablar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dialogo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "interpelacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Matias"
+        }
+      ],
+      "uuid": "1f433a52-ae1b-4633-83b7-cbc7c99dd46b"
+    },
+    {
+      "start_time": 315,
+      "end_time": 319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, y no estÃ¡ amenazado de muerte."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "amenazas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "persecucion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "situacion-de-riesgo"
+        }
+      ],
+      "uuid": "13e87f4e-021f-4ef7-b76e-0f972828744d"
+    },
+    {
+      "start_time": 318,
+      "end_time": 322,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hace el dÃ­a que no voy al caso."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "relato-personal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-ininteligible"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dialogo"
+        }
+      ],
+      "uuid": "eb81150a-3da5-4988-bc29-c145f88b9a17"
+    },
+    {
+      "start_time": 321,
+      "end_time": 325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En los primeros dÃ­as tuve que llevarla a familia de otro lado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "desplazamiento-familiar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "proteccion-familiar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "amenazas"
+        }
+      ],
+      "uuid": "12b1a112-64e7-4bb8-a0b5-40664dc02df4"
+    },
+    {
+      "start_time": 325,
+      "end_time": 331,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "TambiÃ©n el compaÃ±ero este Moreira, viste lo amenazado, lo tirÃ³ en la casa cuando serÃ­a toro."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "violencia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "agresion-a-companiero"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "hostigamiento"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Moreira"
+        }
+      ],
+      "uuid": "e6a82a0e-6d4b-4eb5-903e-0b6dd2e272fa"
+    },
+    {
+      "start_time": 332,
+      "end_time": 342,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La patronada por un lado no tiene el plomo todo el cuerpo y la burocracia no tiene el plomo tambiÃ©n por otro lado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "patronal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "burocracia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "plomo"
+        }
+      ],
+      "uuid": "84a21135-6c24-4140-afff-fcb6ddb93053"
+    },
+    {
+      "start_time": 341,
+      "end_time": 346,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "AsÃ­ que no tenemos alternativas de ningÃºn lado, por todo lado estamos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sin-alternativas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "desamparo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "cerco-institucional"
+        }
+      ],
+      "uuid": "c1c83127-3f53-457d-bf78-55f8d485ff1a"
+    },
+    {
+      "start_time": 346,
+      "end_time": 363,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ah, sÃ­, pero nosotros seguimos teniendo confianza en el pueblo trabajador y el pueblo argentino que estÃ¡ unido y con esto no hay mejor fuerza mÃ¡s grande que el pueblo trabajador, el logrero que nos sale adelante."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "confianza-en-el-pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "unidad-obrera"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fuerza-popular"
+        }
+      ],
+      "uuid": "1e793299-2658-48b8-ac5b-24541cd05cb7"
+    },
+    {
+      "start_time": 362,
+      "end_time": 369,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "AsÃ­ que las banderas de nuestros compaÃ±eros que cayeron, como se hace de Paulito Burgat, la vamos a levantar y vamos a salir adelante."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "homenaje-a-caidos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "banderas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "continuidad-de-la-lucha"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Paulito Burgat"
+        }
+      ],
+      "uuid": "93271a4a-ac7f-4920-b5d1-cc98adda7988"
+    },
+    {
+      "start_time": 383,
+      "end_time": 407,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ese es tener mala pata De cualquier forma me matan Las ollas que hierven, despuÃ©s se destapan El gas de la muerte se mete en las ropas Y el pobre operario lo lleva a su casa Ya ver extractores, la cosa no pasa"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "canto"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "gas-de-la-muerte"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ollas-y-ropas"
+        }
+      ],
+      "uuid": "af684e8b-75c6-4b0d-a192-742f1d5cf795"
+    },
+    {
+      "start_time": 407,
+      "end_time": 423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Las mÃ¡scaras brillan tambiÃ©n por su ausencia y el cruelza, tÃº mismo destruye la mente, lo cubre por dentro, los asimpotentes y nadie se entera ni la presidente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "falta-de-proteccion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "crueldad-patronal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "silencio-oficial"
+        }
+      ],
+      "uuid": "5e1fffbd-b643-437b-8458-f06c6f0431fa"
+    },
+    {
+      "start_time": 422,
+      "end_time": 434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Te matan si no trabajo, y si trabajo me matan de hambre de plomo de bala,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "dilema-trabajo-muerte"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "hambre"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "violencia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "plomo"
+        }
+      ],
+      "uuid": "b58cbb82-5cf5-415e-9468-c7ad1c633e11"
+    },
+    {
+      "start_time": 435,
+      "end_time": 440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de alguna forma te matan."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "muerte-inevitable"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-incompleto"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "canto"
+        }
+      ],
+      "uuid": "cd4b4888-f296-4632-a7da-bda12733e6dc"
+    },
+    {
+      "start_time": 439,
+      "end_time": 456,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En vez de ocultarles que estÃ¡n bien podridos, porque no les toman radiografÃ­as, habrÃ¡ que pelearle a la policÃ­a, al mÃ©dico, al trompa y a la infanterÃ­a."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "radiografias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "denuncia-de-complicidades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "llamado-a-la-lucha"
+        }
+      ],
+      "uuid": "e19fdcfb-7780-4883-98b2-1cafc0f4d4f4"
+    },
+    {
+      "start_time": 456,
+      "end_time": 464,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me matan si no trabajo, y si trabajo me matan."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "dilema-trabajo-muerte"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "estribillo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "canto"
+        }
+      ],
+      "uuid": "1b6f58da-077f-43ed-aac6-3071883d5edf"
+    },
+    {
+      "start_time": 470,
+      "end_time": 474,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, yo entrÃ© en el cincuenta y cuatro."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "antiguedad-laboral"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "testimonio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ingreso-a-la-fabrica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "cincuenta y cuatro"
+        }
+      ],
+      "uuid": "8c4a887d-0642-44c8-b690-f0a38d6373e0"
+    },
+    {
+      "start_time": 474,
+      "end_time": 476,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ya va a ser veinte aÃ±os."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "duracion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trayectoria-laboral"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-breve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "veinte anios"
+        }
+      ],
+      "uuid": "ab0713b8-8d5c-4173-9757-dd0671f48cb2"
+    },
+    {
+      "start_time": 475,
+      "end_time": 483,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A mÃ­ me hicieron anÃ¡lisis como a todo el personal del asunto del plomo, de orine, de todo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "analisis-medicos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "control-medico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "plomo"
+        }
+      ],
+      "uuid": "13b92952-f40b-4ccc-912b-091e7e26bded"
+    },
+    {
+      "start_time": 483,
+      "end_time": 487,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pero todo el personal siempre salÃ­a perfectamente bien."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "resultados-normales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "negacion-medica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "encubrimiento"
+        }
+      ],
+      "uuid": "ecb9a083-16a8-401c-b636-a59dcdca6c02"
+    },
+    {
+      "start_time": 487,
+      "end_time": 490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Con los mÃ©dicos de la compaÃ±Ã­a Sano y Bueno."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "medicos-de-la-compania"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "complicidad-medica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "empresa-y-salud"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sano y Bueno"
+        }
+      ],
+      "uuid": "c9e598a4-0cc6-4c3e-bf7f-e1dd66687da6"
+    },
+    {
+      "start_time": 490,
+      "end_time": 498,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ahora nosotros cuimos a la elabona, se lo analicen, resumida cuenta que nosotros estamos entocicados con plomo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "segundo-analisis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "intoxicacion-por-plomo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "contraste-de-diagnosticos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "plomo"
+        }
+      ],
+      "uuid": "ccbdf5f8-e8e2-40e7-9427-3ebf437b6c49"
+    },
+    {
+      "start_time": 498,
+      "end_time": 503,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Todos los mÃ©dicos a nosotros dijeron, ustedes dicen, no es tan enfermo, dice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "negacion-medica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "minimizacion-del-dano"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "diagnostico"
+        }
+      ],
+      "uuid": "f855d487-9c71-4f1b-8573-61d8dee9864c"
+    },
+    {
+      "start_time": 502,
+      "end_time": 505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ustedes, lo que pasa, estÃ¡n podridos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "diagnostico-grave"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "estado-de-salud"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "contradiccion"
+        }
+      ],
+      "uuid": "169c1e18-c116-4b3d-8060-381f9974af35"
+    },
+    {
+      "start_time": 505,
+      "end_time": 509,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y asÃ­ le pasÃ³ a otro compaÃ±ero mÃ¡s antes, el compaÃ±ero Conrado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "caso-de-companiero"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "negligencia-medica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "testimonio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Conrado"
+        }
+      ],
+      "uuid": "31d672ac-5965-4aaa-9da5-eb400a5567b5"
+    },
+    {
+      "start_time": 509,
+      "end_time": 518,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "TambiÃ©n le dijo que tenÃ­a angina roja y le puso las incesiones y ahÃ­ en la camilla como quedÃ³, asÃ­ quedÃ³."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "angina roja"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "intervencion-medica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "muerte-en-camilla"
+        }
+      ],
+      "uuid": "0a37d98d-e29a-4de1-9226-cfd4a895b115"
+    },
+    {
+      "start_time": 517,
+      "end_time": 520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No se levantÃ³ mal, compaÃ±ero."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "dialogo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "desenlace"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-breve"
+        }
+      ],
+      "uuid": "caddcb07-137c-4514-91f5-c0d90159f448"
+    },
+    {
+      "start_time": 519,
+      "end_time": 520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¿Por yo?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "pregunta"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "duda"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "audio-poco-claro"
+        }
+      ],
+      "uuid": "447ca99b-1417-44da-aff8-4876e7ab4db5"
+    },
+    {
+      "start_time": 520,
+      "end_time": 521,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "SÃ­, muriÃ³."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "confirmacion-de-muerte"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dialogo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-breve"
+        }
+      ],
+      "uuid": "cc40c8ce-f327-47ae-af33-37a47f170aad"
+    },
+    {
+      "start_time": 521,
+      "end_time": 524,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El final con raro."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "final-extranio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "audio-poco-claro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "muerte-de-companiero"
+        }
+      ],
+      "uuid": "72b7e07b-f493-45cd-9a86-8e0a4229e6d0"
+    },
+    {
+      "start_time": 523,
+      "end_time": 531,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No habrÃ¡ alcanzado a colocar la mitad de la inyecciÃ³n cuando Ã©l dice que dos, tres, patado asÃ­ y ahÃ­ quedÃ³."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "inyeccion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "muerte-subita"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "negligencia-medica"
+        }
+      ],
+      "uuid": "d01fe682-164b-4ba9-aeb0-355dc7809408"
+    },
+    {
+      "start_time": 530,
+      "end_time": 534,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Usted acÃ¡ me puede recorrer dos, tres cuadras."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "recorrido-del-barrio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "entorno-toxico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dialogo"
+        }
+      ],
+      "uuid": "d6986fd6-3d47-48d3-87b0-5a21931d0b43"
+    },
+    {
+      "start_time": 534,
+      "end_time": 537,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No va a encontrar un perro acÃ¡."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "ausencia-de-animales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "perros"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "prueba-del-dano"
+        }
+      ],
+      "uuid": "545a792b-2339-40cc-8894-7792a7acf146"
+    },
+    {
+      "start_time": 536,
+      "end_time": 539,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No va a encontrar un gato tampoco."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "gatos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ausencia-de-vida"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-breve"
+        }
+      ],
+      "uuid": "2861ff61-c6a0-4f3f-b688-e22b66e8af32"
+    },
+    {
+      "start_time": 539,
+      "end_time": 542,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¿Por quÃ© no lo va a encontrar a esos animales?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "pregunta-retorica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "animales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dialogo"
+        }
+      ],
+      "uuid": "df6e51e7-bd56-4510-8d0b-cd10137a6b0f"
+    },
+    {
+      "start_time": 541,
+      "end_time": 544,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Porque la fÃ¡brica lo estÃ¡ matando."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "fabrica-mortifera"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "causa-de-muerte"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "denuncia"
+        }
+      ],
+      "uuid": "43eba45d-22c4-417e-b528-4eafd38b1658"
+    },
+    {
+      "start_time": 544,
+      "end_time": 548,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que acÃ¡ un gato, 48 horas, no dura la animales."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "mortalidad-animal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "datos-temporales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "prueba-del-dano"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "48 horas"
+        }
+      ],
+      "uuid": "7516959f-1f48-4e9c-9e48-03709771e054"
+    },
+    {
+      "start_time": 548,
+      "end_time": 549,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se muere."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "muerte"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-breve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "entorno-toxico"
+        }
+      ],
+      "uuid": "113cc0e3-e152-41d7-9641-4b376fa4b29d"
+    },
+    {
+      "start_time": 550,
+      "end_time": 553,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Este hizo es un cementerio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "fabrica-cementerio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "metafora"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "denuncia"
+        }
+      ],
+      "uuid": "6dc02e2f-7ffd-4210-8bbc-7cdb81086359"
+    },
+    {
+      "start_time": 552,
+      "end_time": 556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Otra cosa no se puede decir que es un cementerio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "cementerio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "insistencia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "lugar-de-muerte"
+        }
+      ],
+      "uuid": "836d7e6a-b29a-4c40-94d9-a64f32d26b72"
+    },
+    {
+      "start_time": 555,
+      "end_time": 559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, me da, yo le digo al mÃ©dico, mire, doctor, yo me siento mal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "consulta-medica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "malestar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "relato-en-primera-persona"
+        }
+      ],
+      "uuid": "79611ac0-b7eb-4519-a3ca-dbf0f98c39e9"
+    },
+    {
+      "start_time": 558,
+      "end_time": 566,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Entonces me dice, bueno, tome ese dos de ahÃ­, tome esta pastillita, que se la da todo por dolor de cabeza, dolor de pies, se la da todo igual."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "pastilla-universal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "medicacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "negacion-medica"
+        }
+      ],
+      "uuid": "90b93c6b-1f09-4e74-86e2-e02d9f7fddea"
+    },
+    {
+      "start_time": 566,
+      "end_time": 569,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, a los dos dÃ­as vengas a trabajar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "vuelta-al-trabajo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "presion-laboral"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "orden-medica"
+        }
+      ],
+      "uuid": "9feba67d-7c44-4966-ada6-881204ad4f7b"
+    },
+    {
+      "start_time": 568,
+      "end_time": 574,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, vengo a trabajar y le digo, mire, doctor, yo no voy a entrar a trabajar porque yo me siento mal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "rechazo-a-trabajar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "malestar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "conflicto-con-el-medico"
+        }
+      ],
+      "uuid": "236ad951-f584-4751-8d02-3dd70e8485fe"
+    },
+    {
+      "start_time": 573,
+      "end_time": 576,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me dice, mire, usted no tiene nada."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "negacion-medica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "diagnostico-minimizado"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dialogo"
+        }
+      ],
+      "uuid": "80854ae3-6310-4943-abca-d0b172023798"
+    },
+    {
+      "start_time": 575,
+      "end_time": 578,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Digo, no, doctor, yo estoy enfermo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "insistencia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reclamo-de-salud"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "autoafirmacion"
+        }
+      ],
+      "uuid": "9ce2cb54-780a-4f79-b84a-93b33a6b75c3"
+    },
+    {
+      "start_time": 577,
+      "end_time": 582,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Entonces me dice, bueno, arrelesÃ© con el jefe personal, JosÃ© MarÃ­a Cruzado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "jefe-de-personal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "derivacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "autoridad-patronal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jose Maria Cruzado"
+        }
+      ],
+      "uuid": "adfc373e-bc21-486d-b866-76db99d81324"
+    },
+    {
+      "start_time": 582,
+      "end_time": 585,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y yo, el mÃ©dico me dijo asÃ­."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "relato-en-primera-persona"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dialogo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "aclaracion"
+        }
+      ],
+      "uuid": "4e34b16f-b82c-478a-adf3-aa5031335732"
+    },
+    {
+      "start_time": 584,
+      "end_time": 591,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo le dije, mire, yo me voy a hablar con quien sea, pues yo no tengo pelo en la lengua, si yo me siento mal, voy a ir a discutir con quien sea."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "reclamo-de-salud"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "determinacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "enfrentamiento-con-la-patronal"
+        }
+      ],
+      "uuid": "8489b99d-72e1-4910-b92e-0a46c0b6e03e"
+    },
+    {
+      "start_time": 591,
+      "end_time": 593,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Voy a hablar con el jefe del personal, Â¿viste?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "jefe-de-personal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "decision"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dialogo"
+        }
+      ],
+      "uuid": "e4fc93ce-2547-4211-88bb-d76c5aca8659"
+    },
+    {
+      "start_time": 593,
+      "end_time": 596,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y me dice el jefe del personal, Â¿quÃ© le pasa a usted?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "pregunta"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "autoridad-patronal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "escucha-formal"
+        }
+      ],
+      "uuid": "ebad4ecf-eb11-42ab-bef2-1c8001a5bb68"
+    },
+    {
+      "start_time": 595,
+      "end_time": 600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo me digo, el mÃ©dico, no sÃ©, si me no me quiere atender o no sÃ© lo que le pasa a Ã©l, le digo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "queja"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "medico-de-fabrica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "desatencion-medica"
+        }
+      ],
+      "uuid": "9ea6d43b-141a-4e6d-b298-b4424c264999"
+    },
+    {
+      "start_time": 599,
+      "end_time": 602,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo me siento mal y Ã©l me dice que no tengo nada."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "malestar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "negacion-medica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "contradiccion"
+        }
+      ],
+      "uuid": "4c2b9728-f74f-41f6-a583-d77604c8de5b"
+    },
+    {
+      "start_time": 601,
+      "end_time": 604,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me dice el mÃ©dico de la fÃ¡brica, usted estÃ¡ mejor que yo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "medico-de-fabrica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "desprecio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "actitud-prepotente"
+        }
+      ],
+      "uuid": "6a0a997d-7373-4896-a39c-94e6b6dfeceb"
+    },
+    {
+      "start_time": 604,
+      "end_time": 607,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo a usted le dije que usted estaba sano y no tenÃ­a nada, me dijo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "diagnostico-previo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "insistencia-del-medico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dialogo"
+        }
+      ],
+      "uuid": "f0d9533d-c4d8-459a-957c-00bc98b6274e"
+    },
+    {
+      "start_time": 606,
+      "end_time": 610,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me dijo asÃ­ como repotente, Â¿viste?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "prepotencia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trato-medico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "interpelacion"
+        }
+      ],
+      "uuid": "916929ca-4401-4b60-b07e-99fc6c25b8da"
+    },
+    {
+      "start_time": 609,
+      "end_time": 611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, le digo, estÃ¡ bien."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "aceptacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dialogo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-breve"
+        }
+      ],
+      "uuid": "170feb80-cbe2-465f-a939-de4a5c13c0bf"
+    },
+    {
+      "start_time": 610,
+      "end_time": 613,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dice, el lunes venga a trabajar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "orden-de-trabajo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "vuelta-al-trabajo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "autoridad-patronal"
+        }
+      ],
+      "uuid": "56d46beb-163b-4be5-b509-e141b582d9f7"
+    },
+    {
+      "start_time": 612,
+      "end_time": 615,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esto fue un dÃ­a, vÃ­bamos, Â¿viste?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "cronologia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-ininteligible"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "relato-en-primera-persona"
+        }
+      ],
+      "uuid": "a6647c22-4fc1-4417-bca9-fc4ce73e3cd2"
+    },
+    {
+      "start_time": 614,
+      "end_time": 616,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El lunes venga a trabajar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "repeticion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "exigencia-laboral"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-breve"
+        }
+      ],
+      "uuid": "103b4068-8c7e-47fb-b892-e6d129eaf6ce"
+    },
+    {
+      "start_time": 615,
+      "end_time": 619,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ahora yo el lunes tenÃ­a que ir al mÃ©dico de la bomba, Â¿viste?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "medico-externo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "consulta-independiente"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "relato-en-primera-persona"
+        }
+      ],
+      "uuid": "bbd9a61e-83d7-45f5-b4f6-14c496da530b"
+    },
+    {
+      "start_time": 618,
+      "end_time": 620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, yo no era metalÃºrgica."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "aclaracion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "oficio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "audio-poco-claro"
+        }
+      ],
+      "uuid": "18d826d3-ed83-4c89-8009-b45d7a6bee49"
+    },
+    {
+      "start_time": 620,
+      "end_time": 626,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, voy allÃ¡ y les llevo los anÃ¡lisis al mÃ©dico al perÃ­n, al doctor al perÃ­n que nos salvÃ³ la vida a nosotros, como se dijo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "medico-externo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "analisis-medicos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "salvacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "doctor Perin"
+        }
+      ],
+      "uuid": "5362484a-9bda-4d19-b232-a6de1b002a17"
+    },
+    {
+      "start_time": 626,
+      "end_time": 629,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y este... Me dice, pibes, vos estÃ¡s repodrido."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "diagnostico-grave"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dialogo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "lunfardo"
+        }
+      ],
+      "uuid": "214b9f55-fd46-44f7-9c81-3bd8f95982ea"
+    },
+    {
+      "start_time": 629,
+      "end_time": 633,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Entonces ahÃ­ me mandÃ³ a hacer los anÃ¡lisis con la doctora AnasÃ­n GermÃ¡n."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "derivacion-medica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "analisis-medicos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "medico-externo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "doctora Anasin German"
+        }
+      ],
+      "uuid": "19946334-3426-4c08-94f5-40668a2d2726"
+    },
+    {
+      "start_time": 632,
+      "end_time": 635,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y asÃ­, efectivamente, fue que estaba repodrido."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "confirmacion-de-diagnostico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "contraste-de-diagnosticos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "enfermedad-confirmada"
+        }
+      ],
+      "uuid": "4ac68cc5-3294-4202-91d0-3ccaf1c50f09"
+    },
+    {
+      "start_time": 634,
+      "end_time": 637,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y ya, mirad, ya te digo, siete meses."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "pronostico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "expectativa-de-vida"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "datos-medicos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "siete meses"
+        }
+      ],
+      "uuid": "3e952d55-a82c-4165-aaa0-02aad9d90fcd"
+    },
+    {
+      "start_time": 636,
+      "end_time": 639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "AsÃ­ que vos podÃ©s fijarte quÃ© clase de mÃ©dico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "critica-a-medicos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "complicidad-medica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "cierre-del-relato"
+        }
+      ],
+      "uuid": "bd6b1e24-0052-41fc-b68c-9ae8f18de2d4"
+    },
+    {
+      "start_time": 638,
+      "end_time": 644,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creo que el ejemplo, el siglo tenemos que dar los obridos, como hay muchas oportunidades."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "ejemplo-obrero"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "llamado-a-la-accion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "lucha-colectiva"
+        }
+      ],
+      "uuid": "60f4c180-0c06-4693-a90b-d27f42c6e9ac"
+    },
+    {
+      "start_time": 643,
+      "end_time": 645,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "29 de marzo de 1974."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "fecha"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "marcador-temporal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "cronologia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "29 de marzo de 1974"
+        }
+      ],
+      "uuid": "25427200-050b-45ce-b384-a2689f40b160"
+    },
+    {
+      "start_time": 648,
+      "end_time": 656,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cansados de tantas promesas oficiales, los obreros de insult y la matanza deciden movilizarse hacia el Congreso."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "movilizacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Congreso"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "promesas-incumplidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "INSUD"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Matanza"
+        }
+      ],
+      "uuid": "42e23a4d-b809-481f-974f-edf9a99d0302"
+    },
+    {
+      "start_time": 672,
+      "end_time": 687,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "prÃ¡cticamente del paÃ­s porque los compaÃ±eros que estÃ¡n enfermos con plomo de la sangre y el ditame que nosotros vamos al Congreso para que salga una ley que favoreca la clase obrera en general."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "reclamo-legislativo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "clase-trabajadora"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "intoxicacion-por-plomo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Congreso"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "plomo"
+        }
+      ],
+      "uuid": "01d926eb-8900-4dd7-94c1-51a21fb2053c"
+    },
+    {
+      "start_time": 686,
+      "end_time": 692,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eso es compaÃ±ero, eso es lo que nosotros vamos a pedir allÃ¡."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "proposito-de-la-movilizacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dialogo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ratificacion"
+        }
+      ],
+      "uuid": "0186a170-8a89-4d30-b4cf-9ea75ffc1e8b"
+    },
+    {
+      "start_time": 692,
+      "end_time": 693,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¡SuscrÃ­bete!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "error-de-transcripcion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "sin-contenido"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "audio-no-verbal"
+        }
+      ],
+      "uuid": "3d864caa-4f7d-442c-ac07-cda46224497f"
+    },
+    {
+      "start_time": 692,
+      "end_time": 694,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¡SuscrÃ­bete!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "error-de-transcripcion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "sin-contenido"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "audio-no-verbal"
+        }
+      ],
+      "uuid": "97c10ece-106a-4248-b51a-123b31a4e31c"
+    },
+    {
+      "start_time": 693,
+      "end_time": 694,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¡SuscrÃ­bete!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "error-de-transcripcion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "sin-contenido"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "audio-no-verbal"
+        }
+      ],
+      "uuid": "26d6d0d0-506b-4d68-a47e-073027148fc2"
+    },
+    {
+      "start_time": 724,
+      "end_time": 726,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay ay ay..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "vocalizacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "expresion-colectiva"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "audio-no-verbal"
+        }
+      ],
+      "uuid": "2ed1bc13-ae08-4b92-8b86-c384b1e217dc"
+    },
+    {
+      "start_time": 731,
+      "end_time": 744,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y que sea ahora mismo, y que sea ahora mismo, que nos trabe las quiseas, y que se acabe, y que se acabe, y que se acabe."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "consigna"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reclamo-de-urgencia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "canto"
+        }
+      ],
+      "uuid": "5787e865-f97a-44d0-b374-72609e3d1eee"
+    },
+    {
+      "start_time": 758,
+      "end_time": 760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¡Que va cabez!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "audio-poco-claro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "consigna"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "error-de-transcripcion"
+        }
+      ],
+      "uuid": "06441596-4238-4f53-b78c-1950b9a2ea90"
+    },
+    {
+      "start_time": 773,
+      "end_time": 790,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se han expuesto largamente el problema, le han entregado el petitorio y los diputados se han comprometido a asumir el problema y hacer todo lo posible dentro de este marco limitado, como saben ustedes, que es el Parlamento."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "petitorio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "diputados"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "compromiso-parlamentario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Parlamento"
+        }
+      ],
+      "uuid": "b6ae0432-82ea-4468-b7cb-c4c1afa9c2cd"
+    },
+    {
+      "start_time": 789,
+      "end_time": 805,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pero han sido atendidos, han comprendido la justicia de la lucha, la insalubridad absoluta que hay en el Sud, que es una de las empresas mÃ¡s fuertes, moropÃ³licas del Grupo Hoshil y que explota a sus obreros en la forma mÃ¡s lamentable que puede ocurrir en la Argentina."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "insalubridad"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "empresa-monopolica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "explotacion-obrera"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "INSUD"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Grupo Hoshil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "5683a521-b722-49a4-b3fe-a8af880139a0"
+    },
+    {
+      "start_time": 805,
+      "end_time": 810,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Este peditorio ha sido recogido y va a ser movido del Congreso el problema."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "tratamiento-parlamentario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Congreso"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "resultado-de-la-gestion"
+        }
+      ],
+      "uuid": "d9186c87-05ac-43c9-b972-ca087ac2e21d"
+    },
+    {
+      "start_time": 810,
+      "end_time": 817,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pero una vez mÃ¡s queremos recordar, la lucha no se libra del Congreso, sino que la libra a los propios trabajadores."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "lucha-de-base"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "limites-del-parlamento"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "protagonismo-obrero"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Congreso"
+        }
+      ],
+      "uuid": "7dc271ef-dc4c-4dd6-bf13-65b187710bd5"
+    },
+    {
+      "start_time": 816,
+      "end_time": 819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "SÃ³lo el pueblo salvarÃ¡ al pueblo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "lema"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "solidaridad-popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fuerza-popular"
+        }
+      ],
+      "uuid": "7db04732-6668-4e70-9919-e236733f155e"
+    },
+    {
+      "start_time": 818,
+      "end_time": 820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No debemos olvidar esto."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "advertencia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "enfasis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-breve"
+        }
+      ],
+      "uuid": "d01ef18b-bc39-46d6-af4f-47de813408a6"
+    },
+    {
+      "start_time": 819,
+      "end_time": 821,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¡MobilizaciÃ³n!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "consigna"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "movilizacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "estribillo"
+        }
+      ],
+      "uuid": "5a4b5852-6705-4208-aa93-978b4823eb53"
+    },
+    {
+      "start_time": 820,
+      "end_time": 824,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¡Hasta la soluciÃ³n!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "perseverancia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "continuidad-de-la-lucha"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "estribillo"
+        }
+      ],
+      "uuid": "5f29c75e-fc5c-4ed9-8032-73dd3562efcd"
+    },
+    {
+      "start_time": 823,
+      "end_time": 825,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¡MobilizaciÃ³n!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "movilizacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "llamado-a-la-accion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "consigna"
+        }
+      ],
+      "uuid": "7124933a-8dd3-476f-98e4-faae86a95383"
+    },
+    {
+      "start_time": 824,
+      "end_time": 827,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¡Hasta la soluciÃ³n!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "continuidad-de-la-lucha"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "perseverancia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "consigna"
+        }
+      ],
+      "uuid": "42968b1c-49b4-4d4e-9f8a-a143dd89bbaf"
+    },
+    {
+      "start_time": 832,
+      "end_time": 846,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ortega PeÃ±a, diputado del pueblo, abogado de presos polÃ­ticos, apoyÃ³ siempre los ofrezos en conflicto, buscÃ³ continuamente la unidad entre la izquierda combativa y los sectores revolucionarios del peronismo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "homenaje"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trayectoria-politica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "unidad-de-la-izquierda"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ortega Penia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "peronismo"
+        }
+      ],
+      "uuid": "c54357d9-77ff-42f9-a3de-b18452d38995"
+    },
+    {
+      "start_time": 846,
+      "end_time": 860,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fue asesinado el 1 de agosto de 1974 por la sinista organizaciÃ³n para el militar, las 3A, pagadas y armadas por este gobierno pro-patronal y pro-imperialista."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "asesinato-politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "violencia-paraestatal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "critica-al-gobierno"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "1 de agosto de 1974"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "las 3A"
+        }
+      ],
+      "uuid": "2600d540-4c19-4659-9f44-cc85b56f45b7"
+    },
+    {
+      "start_time": 861,
+      "end_time": 864,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esta pelÃ­cula es nuestro homenaje."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "homenaje"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "autorreferencia-del-film"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dedicatoria"
+        }
+      ],
+      "uuid": "48540f52-c65e-4426-8d14-a3cf7557d8df"
+    },
+    {
+      "start_time": 864,
+      "end_time": 871,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "CompaÃ±ero Ortega PeÃ±a, presente hasta la victoria siempre."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "presente"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "memoria"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "consigna"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ortega Penia"
+        }
+      ],
+      "uuid": "144e2081-b701-4007-b4ab-7302027f21d3"
+    },
+    {
+      "start_time": 872,
+      "end_time": 901,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "porque nosotros vamos a ir y el trabajador no le ataja paredes ni ametrilladora ni tanque porque nosotros estamos para defender como argentino y como argentino vamos a hacer todo lo que tenga nuestro alcance compaÃ±ero y por lo tanto vemos que vamos a seguir adelante la barrera no hay barrera para el trabajador no hay barrera para pedir lo que a nosotros hace falta nosotros estamos enfermos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "determinacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "no-hay-barreras"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reclamo-obrero"
+        }
+      ],
+      "uuid": "324f201b-5131-4d47-ab5d-fff728ba7e1d"
+    },
+    {
+      "start_time": 901,
+      "end_time": 903,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No podemos trabajar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "incapacidad-laboral"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "enfermedad-obrera"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-breve"
+        }
+      ],
+      "uuid": "7f0e1f0c-31b4-452a-8145-cf48a5958e3a"
+    },
+    {
+      "start_time": 902,
+      "end_time": 906,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "PrÃ¡cticamente somos hombres inÃºtiles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "autopercepcion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "inutilidad"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "consecuencias-de-la-enfermedad"
+        }
+      ],
+      "uuid": "27912816-9863-4c5c-8815-5354671ab67c"
+    },
+    {
+      "start_time": 905,
+      "end_time": 908,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¿Hombres inÃºtiles por quÃ©?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "pregunta-retorica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dialogo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "interpelacion"
+        }
+      ],
+      "uuid": "4ee0c9b0-f025-47d4-9347-8708821a0008"
+    },
+    {
+      "start_time": 907,
+      "end_time": 917,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Porque las empresas, los monopolios, los Ãºnicos que les interesa hacerse, mÃ¡s ricos, mÃ¡s ricos cada vez, a causa de nuestra vida."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "monopolios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "enriquecimiento-patronal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "explotacion-obrera"
+        }
+      ],
+      "uuid": "ddd2e8d0-750c-40cc-a4de-cd1121710252"
+    },
+    {
+      "start_time": 916,
+      "end_time": 920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y nuestra vida vamos a dar sÃ­, vamos a dar nuestra vida."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "entrega-de-la-vida"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "sacrificio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "determinacion"
+        }
+      ],
+      "uuid": "9dbde45c-15fb-4426-b298-8e59001f9c0b"
+    },
+    {
+      "start_time": 919,
+      "end_time": 923,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pero reclamamos lo que tenemos que reclamar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "reclamo-obrero"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "derechos-laborales"
+        }
+      ],
+      "uuid": "f8057c88-d547-4c54-9fc9-4690b46cc9cd"
+    },
+    {
+      "start_time": 922,
+      "end_time": 926,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Haciendo justicia, pedir que se haga justicia."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "peticion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "exigencia-de-justicia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "enfasis"
+        }
+      ],
+      "uuid": "f5ae7351-b02d-4c52-aa71-94edd60a5b89"
+    },
+    {
+      "start_time": 925,
+      "end_time": 928,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y la justicia como lo vamos a hacer, movilizando."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "movilizacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "metodo-de-lucha"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia"
+        }
+      ],
+      "uuid": "5c81a532-28c6-43be-80dd-b88c9209fb0c"
+    },
+    {
+      "start_time": 928,
+      "end_time": 932,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y la jospiera de la puerta y hacer todo lo que tengo que hacer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-ininteligible"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "accion-directa"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "determinacion"
+        }
+      ],
+      "uuid": "1f0fd497-1ba3-42cc-bf6d-1a002cf4bc5c"
+    },
+    {
+      "start_time": 931,
+      "end_time": 932,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nada mÃ¡s."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "cierre-del-discurso"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-breve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "testimonio"
+        }
+      ],
+      "uuid": "121d76a7-66e4-4905-90eb-dc42be8a24c3"
+    },
+    {
+      "start_time": 948,
+      "end_time": 951,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Los obreros de Insud obtienen su primer triunfo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "triunfo-obrero"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "narracion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "conflicto-laboral"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "INSUD"
+        }
+      ],
+      "uuid": "017c5a56-1320-416b-8027-f92ffa5b98cb"
+    },
+    {
+      "start_time": 951,
+      "end_time": 961,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La patronal del seÃ±or Hoshil, varÃ³n del estaÃ±o boliviano que amasÃ³ su fortuna con la sangre y el sudor de varias generaciones de sudamericanos, fue parcialmente derrotada."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "patronal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "derrota-parcial"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "origen-de-la-fortuna"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Hoshil"
+        }
+      ],
+      "uuid": "0bc6c1c1-b447-418d-aad0-be77dfa99fe4"
+    },
+    {
+      "start_time": 962,
+      "end_time": 967,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En Insud, el capitalismo no ha reparado en hacer peligrar la vida de los obreros."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "critica-al-capitalismo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "peligro-para-la-vida"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "salud-obrera"
+        }
+      ],
+      "uuid": "8905bb42-10de-4999-8498-63ed6416efd0"
+    },
+    {
+      "start_time": 966,
+      "end_time": 977,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es que el capitalismo solo puede obtener sus ganancias explotando a los trabajadores, robÃ¡ndoles la parte de las utilidades que les corresponde."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "explotacion-obrera"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "apropiacion-de-utilidades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ganancia-patronal"
+        }
+      ],
+      "uuid": "6748a834-dc37-4189-a184-cd450782f569"
+    },
+    {
+      "start_time": 977,
+      "end_time": 984,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Los obreros, a pesar de ser los verdaderos productores de las riquezas, no son los dueÃ±os de las mÃ¡quinas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "propiedad-de-los-medios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo-y-riqueza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "clase-trabajadora"
+        }
+      ],
+      "uuid": "3b9ca1cc-203c-4622-9582-f7474dd70877"
+    },
+    {
+      "start_time": 984,
+      "end_time": 988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Los capitalistas, sÃ­."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "capitalistas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "contraste"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-breve"
+        }
+      ],
+      "uuid": "11c25198-5d5f-4ce1-96ba-4860930f76da"
+    },
+    {
+      "start_time": 987,
+      "end_time": 991,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dejemos que expliquen cÃ³mo han llegado a conseguirlas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "transicion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ironia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "relato-didactico"
+        }
+      ],
+      "uuid": "b37224c2-cf3a-4542-9396-8788e870f89a"
+    },
+    {
+      "start_time": 991,
+      "end_time": 994,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mi familia tenÃ­a tierras."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "parabola-del-sombrero"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "origen-del-capital"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "voz-del-capitalista"
+        }
+      ],
+      "uuid": "62eb8109-220e-4010-9b0e-9d129db517b1"
+    },
+    {
+      "start_time": 993,
+      "end_time": 997,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "VendÃ­ las tierras y me comprÃ© una mÃ¡quina."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "compra-de-maquina"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "propiedad-de-los-medios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "parabola-del-sombrero"
+        }
+      ],
+      "uuid": "08898a91-b90c-4409-9a2a-63c667d04522"
+    },
+    {
+      "start_time": 997,
+      "end_time": 999,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contratea a un obrero."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "contratacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "relacion-salarial"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "parabola-del-sombrero"
+        }
+      ],
+      "uuid": "1bf6f8ef-6d79-4f47-a41c-6905648bc31e"
+    },
+    {
+      "start_time": 999,
+      "end_time": 1001,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ComprÃ© la materia prima"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "materia-prima"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "proceso-productivo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "parabola-del-sombrero"
+        }
+      ],
+      "uuid": "096ccbcd-6777-49b3-8a59-c1fc58be8d97"
+    },
+    {
+      "start_time": 1008,
+      "end_time": 1015,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que fabricamos uno, dos, tres sombreros."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "produccion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "sombreros"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "parabola-del-sombrero"
+        }
+      ],
+      "uuid": "17e9cbbb-f375-4dda-85b4-9d1e2a01f6b5"
+    },
+    {
+      "start_time": 1014,
+      "end_time": 1019,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "DÃ­ un sombrero al obrero y los otros dos fueron para mÃ­."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "reparto-del-producto"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ganancia-patronal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "parabola-del-sombrero"
+        }
+      ],
+      "uuid": "b15b6217-f710-4a29-a1b4-cc273ccd998b"
+    },
+    {
+      "start_time": 1018,
+      "end_time": 1021,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¿Para quÃ© querÃ­as yo dos sombreros?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "pregunta-retorica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "acumulacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "parabola-del-sombrero"
+        }
+      ],
+      "uuid": "25426a4f-9a2e-4ae0-b04a-a15638ccced0"
+    },
+    {
+      "start_time": 1021,
+      "end_time": 1027,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "VendÃ­ un sombrero y comprÃ© otra mÃ¡quina y otro obrero..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "reinversion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "crecimiento-del-capital"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "parabola-del-sombrero"
+        }
+      ],
+      "uuid": "1735539d-becb-4fc2-887a-3416337d556f"
+    },
+    {
+      "start_time": 1029,
+      "end_time": 1036,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que lujeron dos, cuatro, seis sombreros."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "produccion-creciente"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "sombreros"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "parabola-del-sombrero"
+        }
+      ],
+      "uuid": "c66d92e6-c1ae-477f-9a17-32a7c870943b"
+    },
+    {
+      "start_time": 1035,
+      "end_time": 1039,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Le di uno a cada obrero y nosotros cuatro."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "reparto-del-producto"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "desigualdad"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "parabola-del-sombrero"
+        }
+      ],
+      "uuid": "a7d51ef7-899c-4e72-b27c-390c71eb28da"
+    },
+    {
+      "start_time": 1039,
+      "end_time": 1041,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Claro, fueron para mÃ­."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "apropiacion-de-utilidades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ganancia-patronal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ironia"
+        }
+      ],
+      "uuid": "82eaf9ea-ce81-42fe-a3ef-4e3600d397ea"
+    },
+    {
+      "start_time": 1041,
+      "end_time": 1042,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El de la idea."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "justificacion-patronal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "parabola-del-sombrero"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-breve"
+        }
+      ],
+      "uuid": "1d1c2c97-aa3a-47f2-ab4a-285537746819"
+    },
+    {
+      "start_time": 1042,
+      "end_time": 1050,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "VendÃ­ otro sombrero, comprÃ© otra mÃ¡quina y al fin, aquÃ­ me tienen todos los contentos y nadie protesta."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "reinversion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "nadie-protesta"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "cierre-de-la-parabola"
+        }
+      ],
+      "uuid": "1fac7835-142c-460a-abef-9d677a3488f6"
+    },
+    {
+      "start_time": 1050,
+      "end_time": 1056,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo creo que nosotros, los obreros, somos quienes tenemos que mandar adentro de la fÃ¡brica."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "control-obrero"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "autogestion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "toma-de-posicion"
+        }
+      ],
+      "uuid": "920e737c-f67d-488b-8577-b261bc905613"
+    },
+    {
+      "start_time": 1056,
+      "end_time": 1061,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "O sea, que no tenemos que esperar que los mande la patronal, digamos lo cierto."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "autonomia-obrera"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "patronal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "rechazo-de-la-tutela"
+        }
+      ],
+      "uuid": "d36dc3f1-0424-4d3d-a36b-e3545a1022ca"
+    },
+    {
+      "start_time": 1060,
+      "end_time": 1064,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "O sea, los patrones tenemos que hacer nosotros mismos los obreros."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "autogestion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "poder-obrero"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "audio-poco-claro"
+        }
+      ],
+      "uuid": "b0e56ce4-76d2-4137-9378-bda48218dfb7"
+    },
+    {
+      "start_time": 1063,
+      "end_time": 1070,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tenemos que llegar a unirnos todos los compaÃ±eros, todos los obreros y ser nosotros quienes tengamos que mandar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "unidad-obrera"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "union-de-companieros"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "control-obrero"
+        }
+      ],
+      "uuid": "63c25d03-bcd5-4bb2-8041-afef838c8a03"
+    },
+    {
+      "start_time": 1070,
+      "end_time": 1072,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "en fÃ¡brica."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "lugar-de-trabajo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-incompleto"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fabrica"
+        }
+      ],
+      "uuid": "f4b56908-5dd4-4b5b-bf2b-6c4a91b43152"
+    },
+    {
+      "start_time": 1071,
+      "end_time": 1078,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, la verdad que esto que llegÃ³ a terminar de decir es muy interesante, Â¿sabe por quÃ©?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "valoracion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "comentario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dialogo"
+        }
+      ],
+      "uuid": "fa436a35-29fc-4265-89e8-fd7867635d05"
+    },
+    {
+      "start_time": 1077,
+      "end_time": 1091,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Porque ahora los compaÃ±eros tomaron conciencia, tomaron conciencia que la patronal lo Ãºnico que le interesa es ganar mÃ¡s y mÃ¡s, pero no le interesa la vida de los compaÃ±eros o la vida del trabajador."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "conciencia-obrera"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ganancia-patronal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "vida-del-trabajador"
+        }
+      ],
+      "uuid": "9b7de022-f143-4b37-98d3-5199bd98e362"
+    },
+    {
+      "start_time": 1090,
+      "end_time": 1118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lo Ãºnico que le interesa es eso, el dinero y el dinero, pero ahora se va a terminar, porque acÃ¡ los compaÃ±eros ya saben que no se van a prestar mÃ¡s a los juegos de la compaÃ±Ã­a, porque acÃ¡ demasiado buenos son los compaÃ±eros, porque ellos venÃ­an y le pasaban la mano por sobre el hombro y le decÃ­a, hacemos una gauchada y hacemos el trabajo, pero la gauchada eso costÃ³ vida y eso se tiene que terminar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "fin-de-la-complacencia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "favores-a-la-empresa"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "costo-en-vidas"
+        }
+      ],
+      "uuid": "9da3a4e7-e358-4a79-a48e-67bab6065032"
+    },
+    {
+      "start_time": 1118,
+      "end_time": 1127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y ahora, de hoy adelante, se va a terminar porque ahora sabemos que la patronal... esta, de ahÃ­, eso es una patronal, la asesina."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "patronal-asesina"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ruptura"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "conciencia-obrera"
+        }
+      ],
+      "uuid": "572b5c40-6d20-471f-91c8-e32ff6d18f22"
+    },
+    {
+      "start_time": 1127,
+      "end_time": 1130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Porque lo Ãºnico que le interesa es matar a la gente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "acusacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "interes-patronal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "muertes-obreras"
+        }
+      ],
+      "uuid": "e1f075e7-49c2-49fd-bdbb-b30e398c0f2f"
+    },
+    {
+      "start_time": 1129,
+      "end_time": 1131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por eso que estamos hablando de la lucha."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "lucha"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "continuidad-de-la-lucha"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "transicion"
+        }
+      ],
+      "uuid": "d8bd00b3-0aef-4beb-8cc8-ae2f025208ab"
+    },
+    {
+      "start_time": 1130,
+      "end_time": 1138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La lucha tendrÃ¡ que seguir para que el sindicato, por ejemplo, haya verdaderos representantes del obrero."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "representacion-sindical"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "democracia-sindical"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "lucha-sindical"
+        }
+      ],
+      "uuid": "493d6c7f-5080-4ed5-a15d-462a605ef29b"
+    },
+    {
+      "start_time": 1137,
+      "end_time": 1140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para que se cumple lo que se votÃ³ el 11 de marzo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "voto-del-11-de-marzo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "mandato-electoral"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "promesas-incumplidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "11 de marzo"
+        }
+      ],
+      "uuid": "74911138-d950-492e-95d3-c1ffe08dee62"
+    },
+    {
+      "start_time": 1139,
+      "end_time": 1144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Porque toda la gente, todos los obreros, creo que votamos el 11 de marzo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "participacion-electoral"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "clase-trabajadora"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fecha"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "11 de marzo"
+        }
+      ],
+      "uuid": "31d7f590-d4a9-4811-9930-705f34f9fb54"
+    },
+    {
+      "start_time": 1143,
+      "end_time": 1146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No votamos esto, sino votamos una liberaciÃ³n."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "liberacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "mandato-electoral"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "proyecto-politico"
+        }
+      ],
+      "uuid": "16184295-6ed1-4c92-90ea-eb888f0801d9"
+    },
+    {
+      "start_time": 1146,
+      "end_time": 1150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que hasta ahora no se ha cumplido nada."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "incumplimiento"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "promesas-incumplidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "balance-politico"
+        }
+      ],
+      "uuid": "517875a4-f780-497c-8a60-f4082bec97e1"
+    },
+    {
+      "start_time": 1149,
+      "end_time": 1165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esperamos que con la lucha de nosotros, pero de las bases, que hay que formar una coordinadora, que se levanten las bases de fÃ¡bricas o de agrupaciones, sindicales, combativas o barrios, no sÃ©, como verdad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "coordinadora"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "organizacion-de-base"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "agrupaciones-sindicales"
+        }
+      ],
+      "uuid": "a7b67848-57d0-4cbd-b8fc-02b9290ae4e1"
+    },
+    {
+      "start_time": 1164,
+      "end_time": 1167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pero la lucha tiene que seguir adelante."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "continuidad-de-la-lucha"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "determinacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "cierre-del-discurso"
+        }
+      ],
+      "uuid": "ce2bb483-cacb-4519-8801-1cdc9b15c79c"
+    },
+    {
+      "start_time": 1167,
+      "end_time": 1174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hay un solo camino hacia la liberaciÃ³n."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "canto"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "camino-unico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "liberacion"
+        }
+      ],
+      "uuid": "2af532c4-7f37-4629-acb3-38e8f034a06d"
+    },
+    {
+      "start_time": 1175,
+      "end_time": 1180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unir al pueblo entero contra la explotaciÃ³n."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "unidad-popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "contra-la-explotacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "llamado-a-la-accion"
+        }
+      ],
+      "uuid": "e3dc36e2-574d-4afe-a049-94298ddfac6c"
+    },
+    {
+      "start_time": 1181,
+      "end_time": 1188,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Preparen ocasiones y la lucha sindical."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "lucha-sindical"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "audio-poco-claro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "canto"
+        }
+      ],
+      "uuid": "286ff297-c319-4890-a07f-f862630e21c9"
+    },
+    {
+      "start_time": 1187,
+      "end_time": 1193,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y hagamos todos juntos la revoluciÃ³n social."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "revolucion-social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "accion-colectiva"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "llamado-a-la-accion"
+        }
+      ],
+      "uuid": "57566a61-8056-497a-bef7-e70e16df10aa"
+    },
+    {
+      "start_time": 1193,
+      "end_time": 1196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hay un solo camino."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "camino-unico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "canto"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "estribillo"
+        }
+      ],
+      "uuid": "aba18590-ca4a-4f10-a736-286efe4cce3d"
+    },
+    {
+      "start_time": 1197,
+      "end_time": 1223,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camino elemental Toda la casi obrera Contrae el pacto social Vayamos todos juntos Que juntos somos mÃ¡s DÃ­gan que si patrones Los vamos a reventar Los vamos a reventar Los vamos a reventar Los vamos a reventar"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "pacto-social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "amenaza-a-los-patrones"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "enfrentamiento-de-clase"
+        }
+      ],
+      "uuid": "69ad9342-5e07-47aa-8636-fd53564aff29"
+    },
+    {
+      "start_time": 1228,
+      "end_time": 1231,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Â¡No aparenta!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "cierre-del-registro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "fragmento-breve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "error-de-transcripcion"
+        }
+      ],
+      "uuid": "64b93ed4-e41a-4b3f-9a69-6309027e2bf5"
+    }
+  ],
   "set": "Default",
   "event_id": "38508100-f961-49cb-a3fa-675922d0a995",
   "source_id": "be134eba-bba6-4344-b782-b2c5f275791f"
